@@ -1,7 +1,3 @@
-#include <iostream>
-#include <vector>
-using namespace std;
-
 class Graph {
 private:
     vector<vector<int>> adj;  // Adjacency list to store the graph
@@ -67,19 +63,3 @@ public:
         printPath(start, end, parent);
     }
 };
-
-int main() {
-    int V = 5;  // Number of vertices in the graph
-    Graph g(V);
-
-    // Add edges to the graph
-    g.addEdge(0, 1);
-    g.addEdge(0, 2);
-    g.addEdge(1, 3);
-    g.addEdge(2, 4);
-
-    // Start DFS from vertex 0 to vertex 4
-    g.startDFS(0, 4);
-
-    return 0;
-}
