@@ -43,12 +43,14 @@ private:
     }
 
     BinaryTreeNode* deleteNode(BinaryTreeNode* node, int value) {
-        if (!node) return node;
+        if (!node) return nullptr;
 
-        if (value < node->data) {
-            node->left = deleteNode(node->left, value);
-        } else if (value > node->data) {
-            node->right = deleteNode(node->right, value);
+        if (node->data != value) {
+            if (!node->left)
+                deleteNode(node->left, value);
+
+            if (!node->right)
+                deleteNode(node->right, value);
         } else {
             if (!node->left) {
                 BinaryTreeNode* temp = node->right;
@@ -64,6 +66,7 @@ private:
             node->data = temp->data;
             node->right = deleteNode(node->right, temp->data);
         }
+
         return node;
     }
 

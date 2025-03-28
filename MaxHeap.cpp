@@ -56,10 +56,14 @@ public:
 
 int main() {
     MaxHeap heap;
-    heap.insert(10);
-    heap.insert(20);
+    heap.insert(7);
+    heap.insert(1);
+    heap.insert(9);
     heap.insert(5);
-    heap.insert(30);
+    heap.insert(4);
+    heap.insert(12);
+    heap.insert(99);
+    heap.insert(25);
 
     cout << "Heap elements: ";
     heap.printHeap();
