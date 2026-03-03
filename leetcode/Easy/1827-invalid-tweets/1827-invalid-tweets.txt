@@ -1,0 +1,11 @@
+/*
+ Problem: 1827. Invalid Tweets
+ Language: mysql
+ Runtime: 991 ms (5.13%)
+ Memory: 0B (100.00%)
+ Tags: Database
+*/
+# Write your MySQL query statement below
+SELECT tweet_id
+FROM Tweets
+Where CHAR_LENGTH(content) > 15
