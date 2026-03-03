@@ -1,0 +1,11 @@
+/*
+ Problem: 1153. Product Sales Analysis I
+ Language: mysql
+ Runtime: 3004 ms (5.00%)
+ Memory: 0B (100.00%)
+ Tags: Database
+*/
+# Write your MySQL query statement below
+SELECT product_name, year, price
+FROM Sales JOIN Product
+ON Sales.product_id = Product.product_id
