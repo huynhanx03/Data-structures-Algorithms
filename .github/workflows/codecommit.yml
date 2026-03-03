@@ -5,6 +5,9 @@ on:
     - cron: "0 13 * * *"
   workflow_dispatch:
 
+env:
+  LEETCODE_DIR: ${{ vars.LEETCODE_DIR }}
+
 jobs:
   sync_platforms:
     runs-on: ubuntu-latest
@@ -20,6 +23,14 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
+
+      - name: Cache Database
+        uses: actions/cache@v4
+        with:
+          path: ${{ env.LEETCODE_DIR }}/data.json
+          key: leetcode-data-${{ github.run_id }}
+          restore-keys: |
+            leetcode-data-
           
       - name: Install dependencies
         run: pip install -r CodeCommit/requirements.txt
@@ -30,7 +41,6 @@ jobs:
           LEETCODE_SESSION: ${{ secrets.LEETCODE_SESSION }}
           LEETCODE_CSRF: ${{ secrets.LEETCODE_CSRF }}
           DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
-          LEETCODE_DIR: leetcode
         run: python3 -m CodeCommit.main
 
       - name: Upload Artifacts
@@ -38,7 +48,7 @@ jobs:
         with:
           name: data-${{ matrix.platform }}
           path: |
-            leetcode/
+            ${{ env.LEETCODE_DIR }}/
             commits.sh
           if-no-files-found: ignore
 
@@ -65,19 +75,19 @@ jobs:
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           if [ -d "downloaded_data/data-leetcode" ]; then
-            cp -r downloaded_data/data-leetcode/leetcode . 2>/dev/null || true
+            cp -r downloaded_data/data-leetcode/${{ env.LEETCODE_DIR }} . 2>/dev/null || true
             if [ -f "downloaded_data/data-leetcode/commits.sh" ]; then
               bash downloaded_data/data-leetcode/commits.sh
             fi
           fi
           rm -rf downloaded_data
 
-      - name: Commit READMEs and Database
+      - name: Commit Files
         run: |
-          git add README.md leetcode/README.md leetcode/data.json || true
+          git add ${{ env.LEETCODE_DIR }}/README.md || true
           if git diff --staged --quiet; then
-            echo "No README or database changes."
+            echo "No README changes."
           else
-            git commit -m "Auto Sync: Update READMEs and Database"
+            git commit -m "Auto Sync: Update READMEs"
           fi
           git push
