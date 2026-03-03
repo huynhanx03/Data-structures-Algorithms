@@ -1,0 +1,36 @@
+/*
+ Problem: 2625. Increment Submatrices by One
+ Language: cpp
+ Runtime: 21 ms (78.96%)
+ Memory: 93.5 MB (100.00%)
+ Tags: Array, Matrix, Prefix Sum
+*/
+class Solution {
+public:
+    vector<vector<int>> rangeAddQueries(int n, vector<vector<int>>& queries) {
+        vector<vector<int>> diff(n + 1, vector<int>(n + 1, 0));
+
+        for (auto &q : queries) {
+            int r1 = q[0], c1 = q[1], r2 = q[2], c2 = q[3];
+
+            diff[r1][c1] += 1;
+            if (c2 + 1 < n) diff[r1][c2 + 1] -= 1;
+            if (r2 + 1 < n) diff[r2 + 1][c1] -= 1;
+            if (r2 + 1 < n && c2 + 1 < n) diff[r2 + 1][c2 + 1] += 1;
+        }
+
+        vector<vector<int>> mat(n, vector<int>(n, 0));
+
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < n; j++) {
+                int up = (i > 0 ? mat[i - 1][j] : 0);
+                int left = (j > 0 ? mat[i][j - 1] : 0);
+                int diag = (i > 0 && j > 0 ? mat[i - 1][j - 1] : 0);
+
+                mat[i][j] = diff[i][j] + up + left - diag;
+            }
+        }
+
+        return mat;
+    }
+};
