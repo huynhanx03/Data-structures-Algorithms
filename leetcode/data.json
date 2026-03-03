@@ -42,5 +42,27 @@
     "ContestID": 0,
     "Index": "",
     "Timestamp": 1772514784
+  },
+  {
+    "Platform": "LeetCode",
+    "ID": "1667",
+    "Title": "Find Kth Bit in Nth Binary String",
+    "Slug": "find-kth-bit-in-nth-binary-string",
+    "Difficulty": "Medium",
+    "Rating": 0,
+    "Tags": [
+      "String",
+      "Recursion",
+      "Simulation"
+    ],
+    "Language": "java",
+    "TimeBeats": 100.0,
+    "MemoryBeats": 87.37989999999999,
+    "TimeDisplay": "0 ms",
+    "MemoryDisplay": "42.5 MB",
+    "Link": "https://leetcode.com/problems/find-kth-bit-in-nth-binary-string",
+    "ContestID": 0,
+    "Index": "",
+    "Timestamp": 1772522452
   }
 ]
