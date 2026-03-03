@@ -72,8 +72,8 @@ jobs:
 
       - name: Merge files and Run Individual Commits
         run: |
-          git config --global user.name 'github-actions[bot]'
-          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git config --global user.name '${{ github.actor }}'
+          git config --global user.email '${{ github.actor_id }}+${{ github.actor }}@users.noreply.github.com'
           if [ -d "downloaded_data/data-leetcode" ]; then
             cp -r downloaded_data/data-leetcode/${{ env.LEETCODE_DIR }} . 2>/dev/null || true
             if [ -f "downloaded_data/data-leetcode/commits.sh" ]; then
