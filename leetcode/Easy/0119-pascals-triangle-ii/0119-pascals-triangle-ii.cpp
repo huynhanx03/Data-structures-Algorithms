@@ -1,0 +1,22 @@
+/*
+ Problem: 119. Pascal's Triangle II
+ Language: cpp
+ Runtime: 0 ms (100.00%)
+ Memory: 9 MB (51.74%)
+ Tags: Array, Dynamic Programming
+*/
+class Solution {
+public:
+    vector<int> getRow(int rowIndex) {
+        vector<int> row(rowIndex + 1, 0);
+        row[0] = 1;
+        
+        for (int i = 1; i <= rowIndex; i++) {
+            for (int j = i; j > 0; j--) {
+                row[j] += row[j - 1];
+            }
+        }
+        
+        return row;
+    }
+};
