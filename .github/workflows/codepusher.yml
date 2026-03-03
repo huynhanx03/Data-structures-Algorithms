@@ -1,0 +1,83 @@
+name: CodeCommit Sync
+
+on:
+  schedule:
+    - cron: "0 13 * * *"
+  workflow_dispatch:
+
+jobs:
+  sync_platforms:
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        platform: [leetcode]
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          
+      - name: Install dependencies
+        run: pip install -r CodeCommit/requirements.txt
+
+      - name: Build and Run CodeCommit
+        env:
+          SYNC_PLATFORM: ${{ matrix.platform }}
+          LEETCODE_SESSION: ${{ secrets.LEETCODE_SESSION }}
+          LEETCODE_CSRF: ${{ secrets.LEETCODE_CSRF }}
+          DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
+          LEETCODE_DIR: leetcode
+        run: python3 -m CodeCommit.main
+
+      - name: Upload Artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: data-${{ matrix.platform }}
+          path: |
+            leetcode/
+            commits.sh
+          if-no-files-found: ignore
+
+      - name: Report Failure
+        if: failure()
+        run: echo "CodeCommit Sync Failed for ${{ matrix.platform }}"
+
+  merge_and_commit:
+    needs: sync_platforms
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Download all artifacts
+        uses: actions/download-artifact@v4
+        with:
+          path: downloaded_data
+
+      - name: Merge files and Run Individual Commits
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          if [ -d "downloaded_data/data-leetcode" ]; then
+            cp -r downloaded_data/data-leetcode/leetcode . 2>/dev/null || true
+            if [ -f "downloaded_data/data-leetcode/commits.sh" ]; then
+              bash downloaded_data/data-leetcode/commits.sh
+            fi
+          fi
+          rm -rf downloaded_data
+
+      - name: Commit READMEs and Database
+        run: |
+          git add README.md leetcode/README.md leetcode/data.json || true
+          if git diff --staged --quiet; then
+            echo "No README or database changes."
+          else
+            git commit -m "Auto Sync: Update READMEs and Database"
+          fi
+          git push

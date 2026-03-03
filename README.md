@@ -11,3 +11,4 @@ Personal collection of data structure implementations, algorithm solutions, and 
 | [`leetcode`](./leetcode) | Selected LeetCode problem solutions. |
 | [`cp`](./cp) | Competitive programming contest workspace. |
 | [`test`](./test) | Test case generator for stress testing. |
+| [`CodeCommit`](./CodeCommit) | Automated sync tool to fetch and commit online judge submissions. |

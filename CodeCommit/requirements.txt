@@ -1,0 +1,2 @@
+httpx
+curl_cffi
