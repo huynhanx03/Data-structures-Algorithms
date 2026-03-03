@@ -1,0 +1,12 @@
+/*
+ Problem: 1258. Article Views I
+ Language: mysql
+ Runtime: 704 ms (5.23%)
+ Memory: 0B (100.00%)
+ Tags: Database
+*/
+# Write your MySQL query statement below
+SELECT DISTINCT author_id AS id
+FROM Views
+WHERE author_id = viewer_id
+ORDER BY id;
