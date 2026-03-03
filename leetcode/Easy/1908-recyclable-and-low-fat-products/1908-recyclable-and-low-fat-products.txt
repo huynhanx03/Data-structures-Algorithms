@@ -1,0 +1,10 @@
+/*
+ Problem: 1908. Recyclable and Low Fat Products
+ Language: mysql
+ Runtime: 867 ms (5.33%)
+ Memory: 0B (100.00%)
+ Tags: Database
+*/
+# Write your MySQL query statement below
+select product_id from Products
+where low_fats  = 'Y' and recyclable = 'Y'
