@@ -1,0 +1,12 @@
+/*
+ Problem: 1509. Replace Employee ID With The Unique Identifier
+ Language: mysql
+ Runtime: 1752 ms (5.38%)
+ Memory: 0B (100.00%)
+ Tags: Database
+*/
+# Write your MySQL query statement below
+SELECT EmployeeUNI.unique_id, Employees.name
+FROM Employees
+LEFT JOIN EmployeeUNI
+ON EmployeeUNI.id = Employees.id
