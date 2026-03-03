@@ -1,5 +1,19 @@
 # LEETCODE
 
+## Array
+| # | Title | Difficulty |
+| :--- | :--- | :---: |
+| 119 | [Pascal's Triangle II](./leetcode/Easy/0119-pascals-triangle-ii) | Easy |
+
+---
+
+## Dynamic Programming
+| # | Title | Difficulty |
+| :--- | :--- | :---: |
+| 119 | [Pascal's Triangle II](./leetcode/Easy/0119-pascals-triangle-ii) | Easy |
+
+---
+
 ## Recursion
 | # | Title | Difficulty |
 | :--- | :--- | :---: |
