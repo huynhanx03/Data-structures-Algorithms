@@ -4,6 +4,7 @@
 | # | Title | Difficulty |
 | :--- | :--- | :---: |
 | 119 | [Pascal's Triangle II](./leetcode/Easy/0119-pascals-triangle-ii) | Easy |
+| 1704 | [Special Positions in a Binary Matrix](./leetcode/Easy/1704-special-positions-in-a-binary-matrix) | Easy |
 
 ---
 
@@ -28,6 +29,13 @@
 
 ---
 
+## Matrix
+| # | Title | Difficulty |
+| :--- | :--- | :---: |
+| 1704 | [Special Positions in a Binary Matrix](./leetcode/Easy/1704-special-positions-in-a-binary-matrix) | Easy |
+
+---
+
 ## Recursion
 | # | Title | Difficulty |
 | :--- | :--- | :---: |
@@ -46,6 +54,7 @@
 ## String
 | # | Title | Difficulty |
 | :--- | :--- | :---: |
+| 1302 | [Delete Characters to Make Fancy String](./leetcode/Easy/1302-delete-characters-to-make-fancy-string) | Easy |
 | 1667 | [Find Kth Bit in Nth Binary String](./leetcode/Medium/1667-find-kth-bit-in-nth-binary-string) | Medium |
 
 ---
