@@ -56,5 +56,6 @@
 | :--- | :--- | :---: |
 | 1302 | [Delete Characters to Make Fancy String](./leetcode/Easy/1302-delete-characters-to-make-fancy-string) | Easy |
 | 1667 | [Find Kth Bit in Nth Binary String](./leetcode/Medium/1667-find-kth-bit-in-nth-binary-string) | Medium |
+| 1884 | [Minimum Changes To Make Alternating Binary String](./leetcode/Easy/1884-minimum-changes-to-make-alternating-binary-string) | Easy |
 
 ---
