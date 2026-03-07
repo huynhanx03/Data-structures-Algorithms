@@ -19,6 +19,7 @@
 | # | Title | Difficulty |
 | :--- | :--- | :---: |
 | 119 | [Pascal's Triangle II](./leetcode/Easy/0119-pascals-triangle-ii) | Easy |
+| 2017 | [Minimum Number of Flips to Make the Binary String Alternating](./leetcode/Medium/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) | Medium |
 
 ---
 
@@ -51,6 +52,13 @@
 
 ---
 
+## Sliding Window
+| # | Title | Difficulty |
+| :--- | :--- | :---: |
+| 2017 | [Minimum Number of Flips to Make the Binary String Alternating](./leetcode/Medium/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) | Medium |
+
+---
+
 ## String
 | # | Title | Difficulty |
 | :--- | :--- | :---: |
@@ -58,5 +66,6 @@
 | 1667 | [Find Kth Bit in Nth Binary String](./leetcode/Medium/1667-find-kth-bit-in-nth-binary-string) | Medium |
 | 1884 | [Minimum Changes To Make Alternating Binary String](./leetcode/Easy/1884-minimum-changes-to-make-alternating-binary-string) | Easy |
 | 1910 | [Check if Binary String Has at Most One Segment of Ones](./leetcode/Easy/1910-check-if-binary-string-has-at-most-one-segment-of-ones) | Easy |
+| 2017 | [Minimum Number of Flips to Make the Binary String Alternating](./leetcode/Medium/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) | Medium |
 
 ---
