@@ -5,6 +5,14 @@
 | :--- | :--- | :---: |
 | 119 | [Pascal's Triangle II](./leetcode/Easy/0119-pascals-triangle-ii) | Easy |
 | 1704 | [Special Positions in a Binary Matrix](./leetcode/Easy/1704-special-positions-in-a-binary-matrix) | Easy |
+| 2107 | [Find Unique Binary String](./leetcode/Medium/2107-find-unique-binary-string) | Medium |
+
+---
+
+## Backtracking
+| # | Title | Difficulty |
+| :--- | :--- | :---: |
+| 2107 | [Find Unique Binary String](./leetcode/Medium/2107-find-unique-binary-string) | Medium |
 
 ---
 
@@ -20,6 +28,13 @@
 | :--- | :--- | :---: |
 | 119 | [Pascal's Triangle II](./leetcode/Easy/0119-pascals-triangle-ii) | Easy |
 | 2017 | [Minimum Number of Flips to Make the Binary String Alternating](./leetcode/Medium/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) | Medium |
+
+---
+
+## Hash Table
+| # | Title | Difficulty |
+| :--- | :--- | :---: |
+| 2107 | [Find Unique Binary String](./leetcode/Medium/2107-find-unique-binary-string) | Medium |
 
 ---
 
@@ -67,5 +82,6 @@
 | 1884 | [Minimum Changes To Make Alternating Binary String](./leetcode/Easy/1884-minimum-changes-to-make-alternating-binary-string) | Easy |
 | 1910 | [Check if Binary String Has at Most One Segment of Ones](./leetcode/Easy/1910-check-if-binary-string-has-at-most-one-segment-of-ones) | Easy |
 | 2017 | [Minimum Number of Flips to Make the Binary String Alternating](./leetcode/Medium/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) | Medium |
+| 2107 | [Find Unique Binary String](./leetcode/Medium/2107-find-unique-binary-string) | Medium |
 
 ---
