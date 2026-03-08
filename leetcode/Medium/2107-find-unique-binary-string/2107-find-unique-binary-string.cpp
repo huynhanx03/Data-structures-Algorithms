@@ -2,7 +2,7 @@
  Problem: 2107. Find Unique Binary String
  Language: cpp
  Runtime: 0 ms (100.00%)
- Memory: 12.6 MB (86.04%)
+ Memory: 12.6 MB (86.66%)
  Tags: Array, Hash Table, String, Backtracking
 */
 class Solution {
