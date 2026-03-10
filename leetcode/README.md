@@ -29,6 +29,7 @@
 | 119 | [Pascal's Triangle II](./leetcode/Easy/0119-pascals-triangle-ii) | Easy |
 | 2017 | [Minimum Number of Flips to Make the Binary String Alternating](./leetcode/Medium/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) | Medium |
 | 3406 | [Find All Possible Stable Binary Arrays I](./leetcode/Medium/3406-find-all-possible-stable-binary-arrays-i) | Medium |
+| 3407 | [Find All Possible Stable Binary Arrays II](./leetcode/Hard/3407-find-all-possible-stable-binary-arrays-ii) | Hard |
 
 ---
 
@@ -57,6 +58,7 @@
 | # | Title | Difficulty |
 | :--- | :--- | :---: |
 | 3406 | [Find All Possible Stable Binary Arrays I](./leetcode/Medium/3406-find-all-possible-stable-binary-arrays-i) | Medium |
+| 3407 | [Find All Possible Stable Binary Arrays II](./leetcode/Hard/3407-find-all-possible-stable-binary-arrays-ii) | Hard |
 
 ---
 
