@@ -20,6 +20,7 @@
 | # | Title | Difficulty |
 | :--- | :--- | :---: |
 | 231 | [Power of Two](./leetcode/Easy/0231-power-of-two) | Easy |
+| 1054 | [Complement of Base 10 Integer](./leetcode/Easy/1054-complement-of-base-10-integer) | Easy |
 
 ---
 
