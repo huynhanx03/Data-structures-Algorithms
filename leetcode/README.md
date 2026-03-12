@@ -16,6 +16,13 @@
 
 ---
 
+## Binary Search
+| # | Title | Difficulty |
+| :--- | :--- | :---: |
+| 3902 | [Maximize Spanning Tree Stability with Upgrades](./leetcode/Hard/3902-maximize-spanning-tree-stability-with-upgrades) | Hard |
+
+---
+
 ## Bit Manipulation
 | # | Title | Difficulty |
 | :--- | :--- | :---: |
@@ -31,6 +38,20 @@
 | 2017 | [Minimum Number of Flips to Make the Binary String Alternating](./leetcode/Medium/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) | Medium |
 | 3406 | [Find All Possible Stable Binary Arrays I](./leetcode/Medium/3406-find-all-possible-stable-binary-arrays-i) | Medium |
 | 3407 | [Find All Possible Stable Binary Arrays II](./leetcode/Hard/3407-find-all-possible-stable-binary-arrays-ii) | Hard |
+
+---
+
+## Graph Theory
+| # | Title | Difficulty |
+| :--- | :--- | :---: |
+| 3902 | [Maximize Spanning Tree Stability with Upgrades](./leetcode/Hard/3902-maximize-spanning-tree-stability-with-upgrades) | Hard |
+
+---
+
+## Greedy
+| # | Title | Difficulty |
+| :--- | :--- | :---: |
+| 3902 | [Maximize Spanning Tree Stability with Upgrades](./leetcode/Hard/3902-maximize-spanning-tree-stability-with-upgrades) | Hard |
 
 ---
 
@@ -52,6 +73,13 @@
 | # | Title | Difficulty |
 | :--- | :--- | :---: |
 | 1704 | [Special Positions in a Binary Matrix](./leetcode/Easy/1704-special-positions-in-a-binary-matrix) | Easy |
+
+---
+
+## Minimum Spanning Tree
+| # | Title | Difficulty |
+| :--- | :--- | :---: |
+| 3902 | [Maximize Spanning Tree Stability with Upgrades](./leetcode/Hard/3902-maximize-spanning-tree-stability-with-upgrades) | Hard |
 
 ---
 
@@ -94,5 +122,12 @@
 | 1910 | [Check if Binary String Has at Most One Segment of Ones](./leetcode/Easy/1910-check-if-binary-string-has-at-most-one-segment-of-ones) | Easy |
 | 2017 | [Minimum Number of Flips to Make the Binary String Alternating](./leetcode/Medium/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) | Medium |
 | 2107 | [Find Unique Binary String](./leetcode/Medium/2107-find-unique-binary-string) | Medium |
+
+---
+
+## Union-Find
+| # | Title | Difficulty |
+| :--- | :--- | :---: |
+| 3902 | [Maximize Spanning Tree Stability with Upgrades](./leetcode/Hard/3902-maximize-spanning-tree-stability-with-upgrades) | Hard |
 
 ---
