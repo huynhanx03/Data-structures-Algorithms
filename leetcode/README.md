@@ -6,6 +6,7 @@
 | 119 | [Pascal's Triangle II](./leetcode/Easy/0119-pascals-triangle-ii) | Easy |
 | 1704 | [Special Positions in a Binary Matrix](./leetcode/Easy/1704-special-positions-in-a-binary-matrix) | Easy |
 | 2107 | [Find Unique Binary String](./leetcode/Medium/2107-find-unique-binary-string) | Medium |
+| 3496 | [Minimum Number of Seconds to Make Mountain Height Zero](./leetcode/Medium/3496-minimum-number-of-seconds-to-make-mountain-height-zero) | Medium |
 
 ---
 
@@ -19,6 +20,7 @@
 ## Binary Search
 | # | Title | Difficulty |
 | :--- | :--- | :---: |
+| 3496 | [Minimum Number of Seconds to Make Mountain Height Zero](./leetcode/Medium/3496-minimum-number-of-seconds-to-make-mountain-height-zero) | Medium |
 | 3902 | [Maximize Spanning Tree Stability with Upgrades](./leetcode/Hard/3902-maximize-spanning-tree-stability-with-upgrades) | Hard |
 
 ---
@@ -51,6 +53,7 @@
 ## Greedy
 | # | Title | Difficulty |
 | :--- | :--- | :---: |
+| 3496 | [Minimum Number of Seconds to Make Mountain Height Zero](./leetcode/Medium/3496-minimum-number-of-seconds-to-make-mountain-height-zero) | Medium |
 | 3902 | [Maximize Spanning Tree Stability with Upgrades](./leetcode/Hard/3902-maximize-spanning-tree-stability-with-upgrades) | Hard |
 
 ---
@@ -62,10 +65,18 @@
 
 ---
 
+## Heap (Priority Queue)
+| # | Title | Difficulty |
+| :--- | :--- | :---: |
+| 3496 | [Minimum Number of Seconds to Make Mountain Height Zero](./leetcode/Medium/3496-minimum-number-of-seconds-to-make-mountain-height-zero) | Medium |
+
+---
+
 ## Math
 | # | Title | Difficulty |
 | :--- | :--- | :---: |
 | 231 | [Power of Two](./leetcode/Easy/0231-power-of-two) | Easy |
+| 3496 | [Minimum Number of Seconds to Make Mountain Height Zero](./leetcode/Medium/3496-minimum-number-of-seconds-to-make-mountain-height-zero) | Medium |
 
 ---
 
