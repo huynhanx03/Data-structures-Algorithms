@@ -13,6 +13,7 @@
 ## Backtracking
 | # | Title | Difficulty |
 | :--- | :--- | :---: |
+| 1516 | [The k-th Lexicographical String of All Happy Strings of Length n](./leetcode/Medium/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) | Medium |
 | 2107 | [Find Unique Binary String](./leetcode/Medium/2107-find-unique-binary-string) | Medium |
 
 ---
@@ -128,6 +129,7 @@
 | # | Title | Difficulty |
 | :--- | :--- | :---: |
 | 1302 | [Delete Characters to Make Fancy String](./leetcode/Easy/1302-delete-characters-to-make-fancy-string) | Easy |
+| 1516 | [The k-th Lexicographical String of All Happy Strings of Length n](./leetcode/Medium/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) | Medium |
 | 1667 | [Find Kth Bit in Nth Binary String](./leetcode/Medium/1667-find-kth-bit-in-nth-binary-string) | Medium |
 | 1884 | [Minimum Changes To Make Alternating Binary String](./leetcode/Easy/1884-minimum-changes-to-make-alternating-binary-string) | Easy |
 | 1910 | [Check if Binary String Has at Most One Segment of Ones](./leetcode/Easy/1910-check-if-binary-string-has-at-most-one-segment-of-ones) | Easy |
