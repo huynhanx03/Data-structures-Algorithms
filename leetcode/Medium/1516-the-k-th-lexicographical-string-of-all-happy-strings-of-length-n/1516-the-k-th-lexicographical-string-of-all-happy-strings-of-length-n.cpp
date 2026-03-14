@@ -2,7 +2,7 @@
  Problem: 1516. The k-th Lexicographical String of All Happy Strings of Length n
  Language: cpp
  Runtime: 0 ms (100.00%)
- Memory: 7.7 MB (96.73%)
+ Memory: 7.9 MB (80.34%)
  Tags: String, Backtracking
 */
 class Solution {
@@ -14,7 +14,7 @@ public:
 
         string result = "";
         char prev = 0;
-        k--;
+        --k;
 
         for (int i = 0; i < n; ++i) {
             for (char c : {'a', 'b', 'c'}) {
