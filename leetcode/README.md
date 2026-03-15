@@ -34,6 +34,13 @@
 
 ---
 
+## Design
+| # | Title | Difficulty |
+| :--- | :--- | :---: |
+| 1728 | [Fancy Sequence](./leetcode/Hard/1728-fancy-sequence) | Hard |
+
+---
+
 ## Dynamic Programming
 | # | Title | Difficulty |
 | :--- | :--- | :---: |
@@ -77,6 +84,7 @@
 | # | Title | Difficulty |
 | :--- | :--- | :---: |
 | 231 | [Power of Two](./leetcode/Easy/0231-power-of-two) | Easy |
+| 1728 | [Fancy Sequence](./leetcode/Hard/1728-fancy-sequence) | Hard |
 | 3496 | [Minimum Number of Seconds to Make Mountain Height Zero](./leetcode/Medium/3496-minimum-number-of-seconds-to-make-mountain-height-zero) | Medium |
 
 ---
@@ -108,6 +116,13 @@
 | :--- | :--- | :---: |
 | 231 | [Power of Two](./leetcode/Easy/0231-power-of-two) | Easy |
 | 1667 | [Find Kth Bit in Nth Binary String](./leetcode/Medium/1667-find-kth-bit-in-nth-binary-string) | Medium |
+
+---
+
+## Segment Tree
+| # | Title | Difficulty |
+| :--- | :--- | :---: |
+| 1728 | [Fancy Sequence](./leetcode/Hard/1728-fancy-sequence) | Hard |
 
 ---
 
