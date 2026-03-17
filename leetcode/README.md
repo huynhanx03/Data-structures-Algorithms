@@ -5,6 +5,7 @@
 | :--- | :--- | :---: |
 | 119 | [Pascal's Triangle II](./leetcode/Easy/0119-pascals-triangle-ii) | Easy |
 | 1704 | [Special Positions in a Binary Matrix](./leetcode/Easy/1704-special-positions-in-a-binary-matrix) | Easy |
+| 1845 | [Largest Submatrix With Rearrangements](./leetcode/Medium/1845-largest-submatrix-with-rearrangements) | Medium |
 | 2107 | [Find Unique Binary String](./leetcode/Medium/2107-find-unique-binary-string) | Medium |
 | 3496 | [Minimum Number of Seconds to Make Mountain Height Zero](./leetcode/Medium/3496-minimum-number-of-seconds-to-make-mountain-height-zero) | Medium |
 
@@ -61,6 +62,7 @@
 ## Greedy
 | # | Title | Difficulty |
 | :--- | :--- | :---: |
+| 1845 | [Largest Submatrix With Rearrangements](./leetcode/Medium/1845-largest-submatrix-with-rearrangements) | Medium |
 | 3496 | [Minimum Number of Seconds to Make Mountain Height Zero](./leetcode/Medium/3496-minimum-number-of-seconds-to-make-mountain-height-zero) | Medium |
 | 3902 | [Maximize Spanning Tree Stability with Upgrades](./leetcode/Hard/3902-maximize-spanning-tree-stability-with-upgrades) | Hard |
 
@@ -93,6 +95,7 @@
 | # | Title | Difficulty |
 | :--- | :--- | :---: |
 | 1704 | [Special Positions in a Binary Matrix](./leetcode/Easy/1704-special-positions-in-a-binary-matrix) | Easy |
+| 1845 | [Largest Submatrix With Rearrangements](./leetcode/Medium/1845-largest-submatrix-with-rearrangements) | Medium |
 
 ---
 
@@ -137,6 +140,13 @@
 | # | Title | Difficulty |
 | :--- | :--- | :---: |
 | 2017 | [Minimum Number of Flips to Make the Binary String Alternating](./leetcode/Medium/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) | Medium |
+
+---
+
+## Sorting
+| # | Title | Difficulty |
+| :--- | :--- | :---: |
+| 1845 | [Largest Submatrix With Rearrangements](./leetcode/Medium/1845-largest-submatrix-with-rearrangements) | Medium |
 
 ---
 
