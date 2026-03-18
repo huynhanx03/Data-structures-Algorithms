@@ -51,6 +51,7 @@ class App:
                 
         except Exception as e:
             print(f"LC Sync Error: {e}")
+            raise e
 
     def _get_cutoff(self) -> int:
         if self.cfg.sync_since:
