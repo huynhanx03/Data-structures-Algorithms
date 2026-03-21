@@ -11,6 +11,7 @@
 | 3492 | [Count Submatrices With Equal Frequency of X and Y](./leetcode/Medium/3492-count-submatrices-with-equal-frequency-of-x-and-y) | Medium |
 | 3496 | [Minimum Number of Seconds to Make Mountain Height Zero](./leetcode/Medium/3496-minimum-number-of-seconds-to-make-mountain-height-zero) | Medium |
 | 3884 | [Minimum Absolute Difference in Sliding Submatrix](./leetcode/Medium/3884-minimum-absolute-difference-in-sliding-submatrix) | Medium |
+| 3973 | [Flip Square Submatrix Vertically](./leetcode/Easy/3973-flip-square-submatrix-vertically) | Easy |
 
 ---
 
@@ -102,6 +103,7 @@
 | 3338 | [Count Submatrices with Top-Left Element and Sum Less Than k](./leetcode/Medium/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) | Medium |
 | 3492 | [Count Submatrices With Equal Frequency of X and Y](./leetcode/Medium/3492-count-submatrices-with-equal-frequency-of-x-and-y) | Medium |
 | 3884 | [Minimum Absolute Difference in Sliding Submatrix](./leetcode/Medium/3884-minimum-absolute-difference-in-sliding-submatrix) | Medium |
+| 3973 | [Flip Square Submatrix Vertically](./leetcode/Easy/3973-flip-square-submatrix-vertically) | Easy |
 
 ---
 
@@ -169,6 +171,13 @@
 | 1910 | [Check if Binary String Has at Most One Segment of Ones](./leetcode/Easy/1910-check-if-binary-string-has-at-most-one-segment-of-ones) | Easy |
 | 2017 | [Minimum Number of Flips to Make the Binary String Alternating](./leetcode/Medium/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) | Medium |
 | 2107 | [Find Unique Binary String](./leetcode/Medium/2107-find-unique-binary-string) | Medium |
+
+---
+
+## Two Pointers
+| # | Title | Difficulty |
+| :--- | :--- | :---: |
+| 3973 | [Flip Square Submatrix Vertically](./leetcode/Easy/3973-flip-square-submatrix-vertically) | Easy |
 
 ---
 
