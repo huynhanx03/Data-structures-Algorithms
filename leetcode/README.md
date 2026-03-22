@@ -6,6 +6,7 @@
 | 119 | [Pascal's Triangle II](./leetcode/Easy/0119-pascals-triangle-ii) | Easy |
 | 1704 | [Special Positions in a Binary Matrix](./leetcode/Easy/1704-special-positions-in-a-binary-matrix) | Easy |
 | 1845 | [Largest Submatrix With Rearrangements](./leetcode/Medium/1845-largest-submatrix-with-rearrangements) | Medium |
+| 2015 | [Determine Whether Matrix Can Be Obtained By Rotation](./leetcode/Easy/2015-determine-whether-matrix-can-be-obtained-by-rotation) | Easy |
 | 2107 | [Find Unique Binary String](./leetcode/Medium/2107-find-unique-binary-string) | Medium |
 | 3338 | [Count Submatrices with Top-Left Element and Sum Less Than k](./leetcode/Medium/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) | Medium |
 | 3492 | [Count Submatrices With Equal Frequency of X and Y](./leetcode/Medium/3492-count-submatrices-with-equal-frequency-of-x-and-y) | Medium |
@@ -100,6 +101,7 @@
 | :--- | :--- | :---: |
 | 1704 | [Special Positions in a Binary Matrix](./leetcode/Easy/1704-special-positions-in-a-binary-matrix) | Easy |
 | 1845 | [Largest Submatrix With Rearrangements](./leetcode/Medium/1845-largest-submatrix-with-rearrangements) | Medium |
+| 2015 | [Determine Whether Matrix Can Be Obtained By Rotation](./leetcode/Easy/2015-determine-whether-matrix-can-be-obtained-by-rotation) | Easy |
 | 3338 | [Count Submatrices with Top-Left Element and Sum Less Than k](./leetcode/Medium/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) | Medium |
 | 3492 | [Count Submatrices With Equal Frequency of X and Y](./leetcode/Medium/3492-count-submatrices-with-equal-frequency-of-x-and-y) | Medium |
 | 3884 | [Minimum Absolute Difference in Sliding Submatrix](./leetcode/Medium/3884-minimum-absolute-difference-in-sliding-submatrix) | Medium |
