@@ -5,6 +5,7 @@
 | :--- | :--- | :---: |
 | 119 | [Pascal's Triangle II](./leetcode/Easy/0119-pascals-triangle-ii) | Easy |
 | 1704 | [Special Positions in a Binary Matrix](./leetcode/Easy/1704-special-positions-in-a-binary-matrix) | Easy |
+| 1716 | [Maximum Non Negative Product in a Matrix](./leetcode/Medium/1716-maximum-non-negative-product-in-a-matrix) | Medium |
 | 1845 | [Largest Submatrix With Rearrangements](./leetcode/Medium/1845-largest-submatrix-with-rearrangements) | Medium |
 | 2015 | [Determine Whether Matrix Can Be Obtained By Rotation](./leetcode/Easy/2015-determine-whether-matrix-can-be-obtained-by-rotation) | Easy |
 | 2107 | [Find Unique Binary String](./leetcode/Medium/2107-find-unique-binary-string) | Medium |
@@ -51,6 +52,7 @@
 | # | Title | Difficulty |
 | :--- | :--- | :---: |
 | 119 | [Pascal's Triangle II](./leetcode/Easy/0119-pascals-triangle-ii) | Easy |
+| 1716 | [Maximum Non Negative Product in a Matrix](./leetcode/Medium/1716-maximum-non-negative-product-in-a-matrix) | Medium |
 | 2017 | [Minimum Number of Flips to Make the Binary String Alternating](./leetcode/Medium/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) | Medium |
 | 3406 | [Find All Possible Stable Binary Arrays I](./leetcode/Medium/3406-find-all-possible-stable-binary-arrays-i) | Medium |
 | 3407 | [Find All Possible Stable Binary Arrays II](./leetcode/Hard/3407-find-all-possible-stable-binary-arrays-ii) | Hard |
@@ -100,6 +102,7 @@
 | # | Title | Difficulty |
 | :--- | :--- | :---: |
 | 1704 | [Special Positions in a Binary Matrix](./leetcode/Easy/1704-special-positions-in-a-binary-matrix) | Easy |
+| 1716 | [Maximum Non Negative Product in a Matrix](./leetcode/Medium/1716-maximum-non-negative-product-in-a-matrix) | Medium |
 | 1845 | [Largest Submatrix With Rearrangements](./leetcode/Medium/1845-largest-submatrix-with-rearrangements) | Medium |
 | 2015 | [Determine Whether Matrix Can Be Obtained By Rotation](./leetcode/Easy/2015-determine-whether-matrix-can-be-obtained-by-rotation) | Easy |
 | 3338 | [Count Submatrices with Top-Left Element and Sum Less Than k](./leetcode/Medium/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) | Medium |
