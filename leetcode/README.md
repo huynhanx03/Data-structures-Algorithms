@@ -13,6 +13,7 @@
 | 3338 | [Count Submatrices with Top-Left Element and Sum Less Than k](./leetcode/Medium/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) | Medium |
 | 3492 | [Count Submatrices With Equal Frequency of X and Y](./leetcode/Medium/3492-count-submatrices-with-equal-frequency-of-x-and-y) | Medium |
 | 3496 | [Minimum Number of Seconds to Make Mountain Height Zero](./leetcode/Medium/3496-minimum-number-of-seconds-to-make-mountain-height-zero) | Medium |
+| 3849 | [Equal Sum Grid Partition I](./leetcode/Medium/3849-equal-sum-grid-partition-i) | Medium |
 | 3884 | [Minimum Absolute Difference in Sliding Submatrix](./leetcode/Medium/3884-minimum-absolute-difference-in-sliding-submatrix) | Medium |
 | 3973 | [Flip Square Submatrix Vertically](./leetcode/Easy/3973-flip-square-submatrix-vertically) | Easy |
 
@@ -57,6 +58,13 @@
 | 2017 | [Minimum Number of Flips to Make the Binary String Alternating](./leetcode/Medium/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) | Medium |
 | 3406 | [Find All Possible Stable Binary Arrays I](./leetcode/Medium/3406-find-all-possible-stable-binary-arrays-i) | Medium |
 | 3407 | [Find All Possible Stable Binary Arrays II](./leetcode/Hard/3407-find-all-possible-stable-binary-arrays-ii) | Hard |
+
+---
+
+## Enumeration
+| # | Title | Difficulty |
+| :--- | :--- | :---: |
+| 3849 | [Equal Sum Grid Partition I](./leetcode/Medium/3849-equal-sum-grid-partition-i) | Medium |
 
 ---
 
@@ -109,6 +117,7 @@
 | 3031 | [Construct Product Matrix](./leetcode/Medium/3031-construct-product-matrix) | Medium |
 | 3338 | [Count Submatrices with Top-Left Element and Sum Less Than k](./leetcode/Medium/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) | Medium |
 | 3492 | [Count Submatrices With Equal Frequency of X and Y](./leetcode/Medium/3492-count-submatrices-with-equal-frequency-of-x-and-y) | Medium |
+| 3849 | [Equal Sum Grid Partition I](./leetcode/Medium/3849-equal-sum-grid-partition-i) | Medium |
 | 3884 | [Minimum Absolute Difference in Sliding Submatrix](./leetcode/Medium/3884-minimum-absolute-difference-in-sliding-submatrix) | Medium |
 | 3973 | [Flip Square Submatrix Vertically](./leetcode/Easy/3973-flip-square-submatrix-vertically) | Easy |
 
@@ -129,6 +138,7 @@
 | 3406 | [Find All Possible Stable Binary Arrays I](./leetcode/Medium/3406-find-all-possible-stable-binary-arrays-i) | Medium |
 | 3407 | [Find All Possible Stable Binary Arrays II](./leetcode/Hard/3407-find-all-possible-stable-binary-arrays-ii) | Hard |
 | 3492 | [Count Submatrices With Equal Frequency of X and Y](./leetcode/Medium/3492-count-submatrices-with-equal-frequency-of-x-and-y) | Medium |
+| 3849 | [Equal Sum Grid Partition I](./leetcode/Medium/3849-equal-sum-grid-partition-i) | Medium |
 
 ---
 
