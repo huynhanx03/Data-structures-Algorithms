@@ -10,6 +10,7 @@
 | 2015 | [Determine Whether Matrix Can Be Obtained By Rotation](./leetcode/Easy/2015-determine-whether-matrix-can-be-obtained-by-rotation) | Easy |
 | 2107 | [Find Unique Binary String](./leetcode/Medium/2107-find-unique-binary-string) | Medium |
 | 3031 | [Construct Product Matrix](./leetcode/Medium/3031-construct-product-matrix) | Medium |
+| 3215 | [Matrix Similarity After Cyclic Shifts](./leetcode/Easy/3215-matrix-similarity-after-cyclic-shifts) | Easy |
 | 3338 | [Count Submatrices with Top-Left Element and Sum Less Than k](./leetcode/Medium/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) | Medium |
 | 3492 | [Count Submatrices With Equal Frequency of X and Y](./leetcode/Medium/3492-count-submatrices-with-equal-frequency-of-x-and-y) | Medium |
 | 3496 | [Minimum Number of Seconds to Make Mountain Height Zero](./leetcode/Medium/3496-minimum-number-of-seconds-to-make-mountain-height-zero) | Medium |
@@ -106,6 +107,7 @@
 | :--- | :--- | :---: |
 | 231 | [Power of Two](./leetcode/Easy/0231-power-of-two) | Easy |
 | 1728 | [Fancy Sequence](./leetcode/Hard/1728-fancy-sequence) | Hard |
+| 3215 | [Matrix Similarity After Cyclic Shifts](./leetcode/Easy/3215-matrix-similarity-after-cyclic-shifts) | Easy |
 | 3496 | [Minimum Number of Seconds to Make Mountain Height Zero](./leetcode/Medium/3496-minimum-number-of-seconds-to-make-mountain-height-zero) | Medium |
 
 ---
@@ -118,6 +120,7 @@
 | 1845 | [Largest Submatrix With Rearrangements](./leetcode/Medium/1845-largest-submatrix-with-rearrangements) | Medium |
 | 2015 | [Determine Whether Matrix Can Be Obtained By Rotation](./leetcode/Easy/2015-determine-whether-matrix-can-be-obtained-by-rotation) | Easy |
 | 3031 | [Construct Product Matrix](./leetcode/Medium/3031-construct-product-matrix) | Medium |
+| 3215 | [Matrix Similarity After Cyclic Shifts](./leetcode/Easy/3215-matrix-similarity-after-cyclic-shifts) | Easy |
 | 3338 | [Count Submatrices with Top-Left Element and Sum Less Than k](./leetcode/Medium/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) | Medium |
 | 3492 | [Count Submatrices With Equal Frequency of X and Y](./leetcode/Medium/3492-count-submatrices-with-equal-frequency-of-x-and-y) | Medium |
 | 3849 | [Equal Sum Grid Partition I](./leetcode/Medium/3849-equal-sum-grid-partition-i) | Medium |
@@ -166,6 +169,7 @@
 | # | Title | Difficulty |
 | :--- | :--- | :---: |
 | 1667 | [Find Kth Bit in Nth Binary String](./leetcode/Medium/1667-find-kth-bit-in-nth-binary-string) | Medium |
+| 3215 | [Matrix Similarity After Cyclic Shifts](./leetcode/Easy/3215-matrix-similarity-after-cyclic-shifts) | Easy |
 
 ---
 
