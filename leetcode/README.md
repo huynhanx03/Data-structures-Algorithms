@@ -9,6 +9,7 @@
 | 1845 | [Largest Submatrix With Rearrangements](./leetcode/Medium/1845-largest-submatrix-with-rearrangements) | Medium |
 | 2015 | [Determine Whether Matrix Can Be Obtained By Rotation](./leetcode/Easy/2015-determine-whether-matrix-can-be-obtained-by-rotation) | Easy |
 | 2107 | [Find Unique Binary String](./leetcode/Medium/2107-find-unique-binary-string) | Medium |
+| 2708 | [Find the String with LCP](./leetcode/Hard/2708-find-the-string-with-lcp) | Hard |
 | 3031 | [Construct Product Matrix](./leetcode/Medium/3031-construct-product-matrix) | Medium |
 | 3215 | [Matrix Similarity After Cyclic Shifts](./leetcode/Easy/3215-matrix-similarity-after-cyclic-shifts) | Easy |
 | 3338 | [Count Submatrices with Top-Left Element and Sum Less Than k](./leetcode/Medium/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) | Medium |
@@ -58,6 +59,7 @@
 | 119 | [Pascal's Triangle II](./leetcode/Easy/0119-pascals-triangle-ii) | Easy |
 | 1716 | [Maximum Non Negative Product in a Matrix](./leetcode/Medium/1716-maximum-non-negative-product-in-a-matrix) | Medium |
 | 2017 | [Minimum Number of Flips to Make the Binary String Alternating](./leetcode/Medium/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) | Medium |
+| 2708 | [Find the String with LCP](./leetcode/Hard/2708-find-the-string-with-lcp) | Hard |
 | 3406 | [Find All Possible Stable Binary Arrays I](./leetcode/Medium/3406-find-all-possible-stable-binary-arrays-i) | Medium |
 | 3407 | [Find All Possible Stable Binary Arrays II](./leetcode/Hard/3407-find-all-possible-stable-binary-arrays-ii) | Hard |
 
@@ -82,6 +84,7 @@
 | # | Title | Difficulty |
 | :--- | :--- | :---: |
 | 1845 | [Largest Submatrix With Rearrangements](./leetcode/Medium/1845-largest-submatrix-with-rearrangements) | Medium |
+| 2708 | [Find the String with LCP](./leetcode/Hard/2708-find-the-string-with-lcp) | Hard |
 | 3496 | [Minimum Number of Seconds to Make Mountain Height Zero](./leetcode/Medium/3496-minimum-number-of-seconds-to-make-mountain-height-zero) | Medium |
 | 3902 | [Maximize Spanning Tree Stability with Upgrades](./leetcode/Hard/3902-maximize-spanning-tree-stability-with-upgrades) | Hard |
 
@@ -119,6 +122,7 @@
 | 1716 | [Maximum Non Negative Product in a Matrix](./leetcode/Medium/1716-maximum-non-negative-product-in-a-matrix) | Medium |
 | 1845 | [Largest Submatrix With Rearrangements](./leetcode/Medium/1845-largest-submatrix-with-rearrangements) | Medium |
 | 2015 | [Determine Whether Matrix Can Be Obtained By Rotation](./leetcode/Easy/2015-determine-whether-matrix-can-be-obtained-by-rotation) | Easy |
+| 2708 | [Find the String with LCP](./leetcode/Hard/2708-find-the-string-with-lcp) | Hard |
 | 3031 | [Construct Product Matrix](./leetcode/Medium/3031-construct-product-matrix) | Medium |
 | 3215 | [Matrix Similarity After Cyclic Shifts](./leetcode/Easy/3215-matrix-similarity-after-cyclic-shifts) | Easy |
 | 3338 | [Count Submatrices with Top-Left Element and Sum Less Than k](./leetcode/Medium/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) | Medium |
@@ -198,6 +202,7 @@
 | 1910 | [Check if Binary String Has at Most One Segment of Ones](./leetcode/Easy/1910-check-if-binary-string-has-at-most-one-segment-of-ones) | Easy |
 | 2017 | [Minimum Number of Flips to Make the Binary String Alternating](./leetcode/Medium/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) | Medium |
 | 2107 | [Find Unique Binary String](./leetcode/Medium/2107-find-unique-binary-string) | Medium |
+| 2708 | [Find the String with LCP](./leetcode/Hard/2708-find-the-string-with-lcp) | Hard |
 
 ---
 
@@ -211,6 +216,7 @@
 ## Union-Find
 | # | Title | Difficulty |
 | :--- | :--- | :---: |
+| 2708 | [Find the String with LCP](./leetcode/Hard/2708-find-the-string-with-lcp) | Hard |
 | 3902 | [Maximize Spanning Tree Stability with Upgrades](./leetcode/Hard/3902-maximize-spanning-tree-stability-with-upgrades) | Hard |
 
 ---
