@@ -203,6 +203,7 @@
 | 2017 | [Minimum Number of Flips to Make the Binary String Alternating](./leetcode/Medium/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) | Medium |
 | 2107 | [Find Unique Binary String](./leetcode/Medium/2107-find-unique-binary-string) | Medium |
 | 2708 | [Find the String with LCP](./leetcode/Hard/2708-find-the-string-with-lcp) | Hard |
+| 2999 | [Check if Strings Can be Made Equal With Operations I](./leetcode/Easy/2999-check-if-strings-can-be-made-equal-with-operations-i) | Easy |
 
 ---
 
