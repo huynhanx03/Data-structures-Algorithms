@@ -86,6 +86,7 @@
 | 1845 | [Largest Submatrix With Rearrangements](./leetcode/Medium/1845-largest-submatrix-with-rearrangements) | Medium |
 | 2708 | [Find the String with LCP](./leetcode/Hard/2708-find-the-string-with-lcp) | Hard |
 | 3496 | [Minimum Number of Seconds to Make Mountain Height Zero](./leetcode/Medium/3496-minimum-number-of-seconds-to-make-mountain-height-zero) | Medium |
+| 3770 | [Lexicographically Smallest Generated String](./leetcode/Hard/3770-lexicographically-smallest-generated-string) | Hard |
 | 3902 | [Maximize Spanning Tree Stability with Upgrades](./leetcode/Hard/3902-maximize-spanning-tree-stability-with-upgrades) | Hard |
 
 ---
@@ -207,6 +208,14 @@
 | 2708 | [Find the String with LCP](./leetcode/Hard/2708-find-the-string-with-lcp) | Hard |
 | 2978 | [Check if Strings Can be Made Equal With Operations II](./leetcode/Medium/2978-check-if-strings-can-be-made-equal-with-operations-ii) | Medium |
 | 2999 | [Check if Strings Can be Made Equal With Operations I](./leetcode/Easy/2999-check-if-strings-can-be-made-equal-with-operations-i) | Easy |
+| 3770 | [Lexicographically Smallest Generated String](./leetcode/Hard/3770-lexicographically-smallest-generated-string) | Hard |
+
+---
+
+## String Matching
+| # | Title | Difficulty |
+| :--- | :--- | :---: |
+| 3770 | [Lexicographically Smallest Generated String](./leetcode/Hard/3770-lexicographically-smallest-generated-string) | Hard |
 
 ---
 
