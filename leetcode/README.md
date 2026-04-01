@@ -10,6 +10,7 @@
 | 2015 | [Determine Whether Matrix Can Be Obtained By Rotation](./leetcode/Easy/2015-determine-whether-matrix-can-be-obtained-by-rotation) | Easy |
 | 2107 | [Find Unique Binary String](./leetcode/Medium/2107-find-unique-binary-string) | Medium |
 | 2708 | [Find the String with LCP](./leetcode/Hard/2708-find-the-string-with-lcp) | Hard |
+| 2846 | [Robot Collisions](./leetcode/Hard/2846-robot-collisions) | Hard |
 | 3031 | [Construct Product Matrix](./leetcode/Medium/3031-construct-product-matrix) | Medium |
 | 3215 | [Matrix Similarity After Cyclic Shifts](./leetcode/Easy/3215-matrix-similarity-after-cyclic-shifts) | Easy |
 | 3338 | [Count Submatrices with Top-Left Element and Sum Less Than k](./leetcode/Medium/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) | Medium |
@@ -175,6 +176,7 @@
 | # | Title | Difficulty |
 | :--- | :--- | :---: |
 | 1667 | [Find Kth Bit in Nth Binary String](./leetcode/Medium/1667-find-kth-bit-in-nth-binary-string) | Medium |
+| 2846 | [Robot Collisions](./leetcode/Hard/2846-robot-collisions) | Hard |
 | 3215 | [Matrix Similarity After Cyclic Shifts](./leetcode/Easy/3215-matrix-similarity-after-cyclic-shifts) | Easy |
 
 ---
@@ -190,8 +192,16 @@
 | # | Title | Difficulty |
 | :--- | :--- | :---: |
 | 1845 | [Largest Submatrix With Rearrangements](./leetcode/Medium/1845-largest-submatrix-with-rearrangements) | Medium |
+| 2846 | [Robot Collisions](./leetcode/Hard/2846-robot-collisions) | Hard |
 | 2978 | [Check if Strings Can be Made Equal With Operations II](./leetcode/Medium/2978-check-if-strings-can-be-made-equal-with-operations-ii) | Medium |
 | 3884 | [Minimum Absolute Difference in Sliding Submatrix](./leetcode/Medium/3884-minimum-absolute-difference-in-sliding-submatrix) | Medium |
+
+---
+
+## Stack
+| # | Title | Difficulty |
+| :--- | :--- | :---: |
+| 2846 | [Robot Collisions](./leetcode/Hard/2846-robot-collisions) | Hard |
 
 ---
 
