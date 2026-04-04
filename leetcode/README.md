@@ -182,6 +182,7 @@
 | # | Title | Difficulty |
 | :--- | :--- | :---: |
 | 1667 | [Find Kth Bit in Nth Binary String](./leetcode/Medium/1667-find-kth-bit-in-nth-binary-string) | Medium |
+| 2197 | [Decode the Slanted Ciphertext](./leetcode/Medium/2197-decode-the-slanted-ciphertext) | Medium |
 | 2846 | [Robot Collisions](./leetcode/Hard/2846-robot-collisions) | Hard |
 | 3215 | [Matrix Similarity After Cyclic Shifts](./leetcode/Easy/3215-matrix-similarity-after-cyclic-shifts) | Easy |
 
@@ -222,6 +223,7 @@
 | 1910 | [Check if Binary String Has at Most One Segment of Ones](./leetcode/Easy/1910-check-if-binary-string-has-at-most-one-segment-of-ones) | Easy |
 | 2017 | [Minimum Number of Flips to Make the Binary String Alternating](./leetcode/Medium/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) | Medium |
 | 2107 | [Find Unique Binary String](./leetcode/Medium/2107-find-unique-binary-string) | Medium |
+| 2197 | [Decode the Slanted Ciphertext](./leetcode/Medium/2197-decode-the-slanted-ciphertext) | Medium |
 | 2708 | [Find the String with LCP](./leetcode/Hard/2708-find-the-string-with-lcp) | Hard |
 | 2978 | [Check if Strings Can be Made Equal With Operations II](./leetcode/Medium/2978-check-if-strings-can-be-made-equal-with-operations-ii) | Medium |
 | 2999 | [Check if Strings Can be Made Equal With Operations I](./leetcode/Easy/2999-check-if-strings-can-be-made-equal-with-operations-i) | Easy |
