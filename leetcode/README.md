@@ -50,6 +50,20 @@
 
 ---
 
+## Breadth-First Search
+| # | Title | Difficulty |
+| :--- | :--- | :---: |
+| 210 | [Course Schedule II](./leetcode/Medium/0210-course-schedule-ii) | Medium |
+
+---
+
+## Depth-First Search
+| # | Title | Difficulty |
+| :--- | :--- | :---: |
+| 210 | [Course Schedule II](./leetcode/Medium/0210-course-schedule-ii) | Medium |
+
+---
+
 ## Design
 | # | Title | Difficulty |
 | :--- | :--- | :---: |
@@ -82,6 +96,7 @@
 ## Graph Theory
 | # | Title | Difficulty |
 | :--- | :--- | :---: |
+| 210 | [Course Schedule II](./leetcode/Medium/0210-course-schedule-ii) | Medium |
 | 3902 | [Maximize Spanning Tree Stability with Upgrades](./leetcode/Hard/3902-maximize-spanning-tree-stability-with-upgrades) | Hard |
 
 ---
@@ -181,6 +196,7 @@
 ## Simulation
 | # | Title | Difficulty |
 | :--- | :--- | :---: |
+| 657 | [Robot Return to Origin](./leetcode/Easy/0657-robot-return-to-origin) | Easy |
 | 1667 | [Find Kth Bit in Nth Binary String](./leetcode/Medium/1667-find-kth-bit-in-nth-binary-string) | Medium |
 | 2197 | [Decode the Slanted Ciphertext](./leetcode/Medium/2197-decode-the-slanted-ciphertext) | Medium |
 | 2846 | [Robot Collisions](./leetcode/Hard/2846-robot-collisions) | Hard |
@@ -216,6 +232,7 @@
 ## String
 | # | Title | Difficulty |
 | :--- | :--- | :---: |
+| 657 | [Robot Return to Origin](./leetcode/Easy/0657-robot-return-to-origin) | Easy |
 | 1302 | [Delete Characters to Make Fancy String](./leetcode/Easy/1302-delete-characters-to-make-fancy-string) | Easy |
 | 1516 | [The k-th Lexicographical String of All Happy Strings of Length n](./leetcode/Medium/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) | Medium |
 | 1667 | [Find Kth Bit in Nth Binary String](./leetcode/Medium/1667-find-kth-bit-in-nth-binary-string) | Medium |
@@ -235,6 +252,13 @@
 | # | Title | Difficulty |
 | :--- | :--- | :---: |
 | 3770 | [Lexicographically Smallest Generated String](./leetcode/Hard/3770-lexicographically-smallest-generated-string) | Hard |
+
+---
+
+## Topological Sort
+| # | Title | Difficulty |
+| :--- | :--- | :---: |
+| 210 | [Course Schedule II](./leetcode/Medium/0210-course-schedule-ii) | Medium |
 
 ---
 
