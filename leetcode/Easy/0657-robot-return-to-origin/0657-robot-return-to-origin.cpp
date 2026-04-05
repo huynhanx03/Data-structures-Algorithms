@@ -1,21 +1,23 @@
 /*
  Problem: 657. Robot Return to Origin
  Language: cpp
- Runtime: 12 ms (10.72%)
- Memory: 8.1 MB (100.00%)
+ Runtime: 7 ms (10.20%)
+ Memory: 10.2 MB (95.43%)
  Tags: String, Simulation
 */
 class Solution {
 public:
     bool judgeCircle(string moves) {
-        int d1=0,d2=0;
-        for (int i=0;i<moves.size();++i)
-        {
-            if (moves[i]=='U') ++d1;
-            if (moves[i]=='D') --d1;
-            if (moves[i]=='R') ++d2;
-            if (moves[i]=='L') --d2;
+        int x = 0;
+        int y = 0;
+        
+        for (char move : moves) {
+            if (move == 'U') y++;
+            else if (move == 'D') y--;
+            else if (move == 'L') x--;
+            else if (move == 'R') x++;
         }
-        return (d1==0 && d2 == 0);
+        
+        return x == 0 && y == 0;
     }
 };
