@@ -22,6 +22,7 @@
 | 3850 | [Equal Sum Grid Partition II](./leetcode/Hard/3850-equal-sum-grid-partition-ii) | Hard |
 | 3884 | [Minimum Absolute Difference in Sliding Submatrix](./leetcode/Medium/3884-minimum-absolute-difference-in-sliding-submatrix) | Medium |
 | 3973 | [Flip Square Submatrix Vertically](./leetcode/Easy/3973-flip-square-submatrix-vertically) | Easy |
+| 3974 | [XOR After Range Multiplication Queries I](./leetcode/Medium/3974-xor-after-range-multiplication-queries-i) | Medium |
 | 3982 | [Maximum Walls Destroyed by Robots](./leetcode/Hard/3982-maximum-walls-destroyed-by-robots) | Hard |
 
 ---
@@ -70,6 +71,13 @@
 | :--- | :--- | :---: |
 | 1728 | [Fancy Sequence](./leetcode/Hard/1728-fancy-sequence) | Hard |
 | 2178 | [Walking Robot Simulation II](./leetcode/Medium/2178-walking-robot-simulation-ii) | Medium |
+
+---
+
+## Divide and Conquer
+| # | Title | Difficulty |
+| :--- | :--- | :---: |
+| 3974 | [XOR After Range Multiplication Queries I](./leetcode/Medium/3974-xor-after-range-multiplication-queries-i) | Medium |
 
 ---
 
@@ -206,6 +214,7 @@
 | 2197 | [Decode the Slanted Ciphertext](./leetcode/Medium/2197-decode-the-slanted-ciphertext) | Medium |
 | 2846 | [Robot Collisions](./leetcode/Hard/2846-robot-collisions) | Hard |
 | 3215 | [Matrix Similarity After Cyclic Shifts](./leetcode/Easy/3215-matrix-similarity-after-cyclic-shifts) | Easy |
+| 3974 | [XOR After Range Multiplication Queries I](./leetcode/Medium/3974-xor-after-range-multiplication-queries-i) | Medium |
 
 ---
 
