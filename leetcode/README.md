@@ -23,6 +23,7 @@
 | 3884 | [Minimum Absolute Difference in Sliding Submatrix](./leetcode/Medium/3884-minimum-absolute-difference-in-sliding-submatrix) | Medium |
 | 3973 | [Flip Square Submatrix Vertically](./leetcode/Easy/3973-flip-square-submatrix-vertically) | Easy |
 | 3974 | [XOR After Range Multiplication Queries I](./leetcode/Medium/3974-xor-after-range-multiplication-queries-i) | Medium |
+| 3975 | [XOR After Range Multiplication Queries II](./leetcode/Hard/3975-xor-after-range-multiplication-queries-ii) | Hard |
 | 3982 | [Maximum Walls Destroyed by Robots](./leetcode/Hard/3982-maximum-walls-destroyed-by-robots) | Hard |
 
 ---
@@ -78,6 +79,7 @@
 | # | Title | Difficulty |
 | :--- | :--- | :---: |
 | 3974 | [XOR After Range Multiplication Queries I](./leetcode/Medium/3974-xor-after-range-multiplication-queries-i) | Medium |
+| 3975 | [XOR After Range Multiplication Queries II](./leetcode/Hard/3975-xor-after-range-multiplication-queries-ii) | Hard |
 
 ---
 
