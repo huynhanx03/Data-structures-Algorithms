@@ -26,6 +26,7 @@
 | 3975 | [XOR After Range Multiplication Queries II](./leetcode/Hard/3975-xor-after-range-multiplication-queries-ii) | Hard |
 | 3982 | [Maximum Walls Destroyed by Robots](./leetcode/Hard/3982-maximum-walls-destroyed-by-robots) | Hard |
 | 4115 | [Minimum Distance Between Three Equal Elements I](./leetcode/Easy/4115-minimum-distance-between-three-equal-elements-i) | Easy |
+| 4119 | [Minimum Distance Between Three Equal Elements II](./leetcode/Medium/4119-minimum-distance-between-three-equal-elements-ii) | Medium |
 
 ---
 
@@ -133,6 +134,7 @@
 | 2978 | [Check if Strings Can be Made Equal With Operations II](./leetcode/Medium/2978-check-if-strings-can-be-made-equal-with-operations-ii) | Medium |
 | 3850 | [Equal Sum Grid Partition II](./leetcode/Hard/3850-equal-sum-grid-partition-ii) | Hard |
 | 4115 | [Minimum Distance Between Three Equal Elements I](./leetcode/Easy/4115-minimum-distance-between-three-equal-elements-i) | Easy |
+| 4119 | [Minimum Distance Between Three Equal Elements II](./leetcode/Medium/4119-minimum-distance-between-three-equal-elements-ii) | Medium |
 
 ---
 
