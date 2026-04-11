@@ -1,8 +1,8 @@
 /*
  Problem: 4119. Minimum Distance Between Three Equal Elements II
  Language: cpp
- Runtime: 509 ms (41.42%)
- Memory: 348.4 MB (42.58%)
+ Runtime: 551 ms (28.75%)
+ Memory: 348.2 MB (44.75%)
  Tags: Array, Hash Table
 */
 class Solution {
