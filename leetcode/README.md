@@ -89,6 +89,7 @@
 | # | Title | Difficulty |
 | :--- | :--- | :---: |
 | 119 | [Pascal's Triangle II](./leetcode/Easy/0119-pascals-triangle-ii) | Easy |
+| 1443 | [Minimum Distance to Type a Word Using Two Fingers](./leetcode/Hard/1443-minimum-distance-to-type-a-word-using-two-fingers) | Hard |
 | 1716 | [Maximum Non Negative Product in a Matrix](./leetcode/Medium/1716-maximum-non-negative-product-in-a-matrix) | Medium |
 | 2017 | [Minimum Number of Flips to Make the Binary String Alternating](./leetcode/Medium/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) | Medium |
 | 2708 | [Find the String with LCP](./leetcode/Hard/2708-find-the-string-with-lcp) | Hard |
@@ -254,6 +255,7 @@
 | :--- | :--- | :---: |
 | 657 | [Robot Return to Origin](./leetcode/Easy/0657-robot-return-to-origin) | Easy |
 | 1302 | [Delete Characters to Make Fancy String](./leetcode/Easy/1302-delete-characters-to-make-fancy-string) | Easy |
+| 1443 | [Minimum Distance to Type a Word Using Two Fingers](./leetcode/Hard/1443-minimum-distance-to-type-a-word-using-two-fingers) | Hard |
 | 1516 | [The k-th Lexicographical String of All Happy Strings of Length n](./leetcode/Medium/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) | Medium |
 | 1667 | [Find Kth Bit in Nth Binary String](./leetcode/Medium/1667-find-kth-bit-in-nth-binary-string) | Medium |
 | 1884 | [Minimum Changes To Make Alternating Binary String](./leetcode/Easy/1884-minimum-changes-to-make-alternating-binary-string) | Easy |
