@@ -11,6 +11,7 @@
 | 1975 | [Minimum Distance to the Target Element](./leetcode/Easy/1975-minimum-distance-to-the-target-element) | Easy |
 | 2015 | [Determine Whether Matrix Can Be Obtained By Rotation](./leetcode/Easy/2015-determine-whether-matrix-can-be-obtained-by-rotation) | Easy |
 | 2107 | [Find Unique Binary String](./leetcode/Medium/2107-find-unique-binary-string) | Medium |
+| 2554 | [Minimum Total Distance Traveled](./leetcode/Hard/2554-minimum-total-distance-traveled) | Hard |
 | 2708 | [Find the String with LCP](./leetcode/Hard/2708-find-the-string-with-lcp) | Hard |
 | 2846 | [Robot Collisions](./leetcode/Hard/2846-robot-collisions) | Hard |
 | 3031 | [Construct Product Matrix](./leetcode/Medium/3031-construct-product-matrix) | Medium |
@@ -93,6 +94,7 @@
 | 1443 | [Minimum Distance to Type a Word Using Two Fingers](./leetcode/Hard/1443-minimum-distance-to-type-a-word-using-two-fingers) | Hard |
 | 1716 | [Maximum Non Negative Product in a Matrix](./leetcode/Medium/1716-maximum-non-negative-product-in-a-matrix) | Medium |
 | 2017 | [Minimum Number of Flips to Make the Binary String Alternating](./leetcode/Medium/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) | Medium |
+| 2554 | [Minimum Total Distance Traveled](./leetcode/Hard/2554-minimum-total-distance-traveled) | Hard |
 | 2708 | [Find the String with LCP](./leetcode/Hard/2708-find-the-string-with-lcp) | Hard |
 | 3406 | [Find All Possible Stable Binary Arrays I](./leetcode/Medium/3406-find-all-possible-stable-binary-arrays-i) | Medium |
 | 3407 | [Find All Possible Stable Binary Arrays II](./leetcode/Hard/3407-find-all-possible-stable-binary-arrays-ii) | Hard |
@@ -237,6 +239,7 @@
 | # | Title | Difficulty |
 | :--- | :--- | :---: |
 | 1845 | [Largest Submatrix With Rearrangements](./leetcode/Medium/1845-largest-submatrix-with-rearrangements) | Medium |
+| 2554 | [Minimum Total Distance Traveled](./leetcode/Hard/2554-minimum-total-distance-traveled) | Hard |
 | 2846 | [Robot Collisions](./leetcode/Hard/2846-robot-collisions) | Hard |
 | 2978 | [Check if Strings Can be Made Equal With Operations II](./leetcode/Medium/2978-check-if-strings-can-be-made-equal-with-operations-ii) | Medium |
 | 3884 | [Minimum Absolute Difference in Sliding Submatrix](./leetcode/Medium/3884-minimum-absolute-difference-in-sliding-submatrix) | Medium |
