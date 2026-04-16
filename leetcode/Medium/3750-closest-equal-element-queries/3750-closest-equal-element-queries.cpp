@@ -1,34 +1,49 @@
 /*
  Problem: 3750. Closest Equal Element Queries
  Language: cpp
- Runtime: 248 ms (37.78%)
- Memory: 229.1 MB (19.56%)
+ Runtime: 181 ms (83.58%)
+ Memory: 217.1 MB (30.35%)
  Tags: Array, Hash Table, Binary Search
 */
 class Solution {
 public:
     vector<int> solveQueries(vector<int>& nums, vector<int>& queries) {
-        int n = queries.size(), sz = nums.size();
-        unordered_map<int, vector<int>> indices;
-        for (int i = 0; i < nums.size(); i++){
-            indices[nums[i]].push_back(i);
+        int n = nums.size();
+        unordered_map<int, vector<int>> mp;
+
+        for (int i = 0; i < n; ++i) {
+            mp[nums[i]].push_back(i);
         }
-        for (auto& pair : indices){
-            auto arr = pair.second;
+
+        vector<int> dist(n);
+
+        for (const auto& [_, arr] : mp) {
             int m = arr.size();
-            if (m == 1){
-                nums[arr[0]] = -1;
+            if (m == 1) {
+                dist[arr[0]] = -1;
                 continue;
             }
-            for (int i = 0; i < m; i++){
-                int f = arr[(i + 1) % m], b = arr[(i - 1 + m) % m];
-                int forward = min((sz - arr[i] - 1) + f + 1, abs(arr[i] - f));
-                int backward = min(abs(b - arr[i]), arr[i] + (sz - b));
-                nums[arr[i]] = min(backward, forward);
+
+            for (int i = 0; i < m; ++i) {
+                int cur = arr[i];
+                int l = arr[(i - 1 + m) % m];
+                int r = arr[(i + 1) % m];
+
+                int d1 = abs(cur - l);
+                int d2 = abs(cur - r);
+
+                d1 = min(d1, n - d1);
+                d2 = min(d2, n - d2);
+
+                dist[cur] = min(d1, d2);
             }
         }
-        for (int i = 0; i < n; i++)
-            queries[i] = nums[queries[i]];
-        return queries;
+
+        vector<int> res;
+        res.reserve(queries.size());
+        for (const auto& q : queries)
+            res.push_back(dist[q]);
+
+        return res;
     }
 };
