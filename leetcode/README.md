@@ -21,6 +21,7 @@
 | 3492 | [Count Submatrices With Equal Frequency of X and Y](./leetcode/Medium/3492-count-submatrices-with-equal-frequency-of-x-and-y) | Medium |
 | 3496 | [Minimum Number of Seconds to Make Mountain Height Zero](./leetcode/Medium/3496-minimum-number-of-seconds-to-make-mountain-height-zero) | Medium |
 | 3677 | [Maximum Amount of Money Robot Can Earn](./leetcode/Medium/3677-maximum-amount-of-money-robot-can-earn) | Medium |
+| 3750 | [Closest Equal Element Queries](./leetcode/Medium/3750-closest-equal-element-queries) | Medium |
 | 3849 | [Equal Sum Grid Partition I](./leetcode/Medium/3849-equal-sum-grid-partition-i) | Medium |
 | 3850 | [Equal Sum Grid Partition II](./leetcode/Hard/3850-equal-sum-grid-partition-ii) | Hard |
 | 3884 | [Minimum Absolute Difference in Sliding Submatrix](./leetcode/Medium/3884-minimum-absolute-difference-in-sliding-submatrix) | Medium |
@@ -45,6 +46,7 @@
 | # | Title | Difficulty |
 | :--- | :--- | :---: |
 | 3496 | [Minimum Number of Seconds to Make Mountain Height Zero](./leetcode/Medium/3496-minimum-number-of-seconds-to-make-mountain-height-zero) | Medium |
+| 3750 | [Closest Equal Element Queries](./leetcode/Medium/3750-closest-equal-element-queries) | Medium |
 | 3902 | [Maximize Spanning Tree Stability with Upgrades](./leetcode/Hard/3902-maximize-spanning-tree-stability-with-upgrades) | Hard |
 | 3982 | [Maximum Walls Destroyed by Robots](./leetcode/Hard/3982-maximum-walls-destroyed-by-robots) | Hard |
 
@@ -137,6 +139,7 @@
 | 906 | [Walking Robot Simulation](./leetcode/Medium/0906-walking-robot-simulation) | Medium |
 | 2107 | [Find Unique Binary String](./leetcode/Medium/2107-find-unique-binary-string) | Medium |
 | 2978 | [Check if Strings Can be Made Equal With Operations II](./leetcode/Medium/2978-check-if-strings-can-be-made-equal-with-operations-ii) | Medium |
+| 3750 | [Closest Equal Element Queries](./leetcode/Medium/3750-closest-equal-element-queries) | Medium |
 | 3850 | [Equal Sum Grid Partition II](./leetcode/Hard/3850-equal-sum-grid-partition-ii) | Hard |
 | 4115 | [Minimum Distance Between Three Equal Elements I](./leetcode/Easy/4115-minimum-distance-between-three-equal-elements-i) | Easy |
 | 4119 | [Minimum Distance Between Three Equal Elements II](./leetcode/Medium/4119-minimum-distance-between-three-equal-elements-ii) | Medium |
