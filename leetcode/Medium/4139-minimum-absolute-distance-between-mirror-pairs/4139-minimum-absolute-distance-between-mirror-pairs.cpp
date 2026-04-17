@@ -1,8 +1,8 @@
 /*
  Problem: 4139. Minimum Absolute Distance Between Mirror Pairs
  Language: cpp
- Runtime: 203 ms (42.49%)
- Memory: 135 MB (43.01%)
+ Runtime: 183 ms (42.89%)
+ Memory: 135.2 MB (32.84%)
  Tags: Array, Hash Table, Math
 */
 class Solution {
