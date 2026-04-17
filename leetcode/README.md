@@ -31,6 +31,7 @@
 | 3982 | [Maximum Walls Destroyed by Robots](./leetcode/Hard/3982-maximum-walls-destroyed-by-robots) | Hard |
 | 4115 | [Minimum Distance Between Three Equal Elements I](./leetcode/Easy/4115-minimum-distance-between-three-equal-elements-i) | Easy |
 | 4119 | [Minimum Distance Between Three Equal Elements II](./leetcode/Medium/4119-minimum-distance-between-three-equal-elements-ii) | Medium |
+| 4139 | [Minimum Absolute Distance Between Mirror Pairs](./leetcode/Medium/4139-minimum-absolute-distance-between-mirror-pairs) | Medium |
 
 ---
 
@@ -143,6 +144,7 @@
 | 3850 | [Equal Sum Grid Partition II](./leetcode/Hard/3850-equal-sum-grid-partition-ii) | Hard |
 | 4115 | [Minimum Distance Between Three Equal Elements I](./leetcode/Easy/4115-minimum-distance-between-three-equal-elements-i) | Easy |
 | 4119 | [Minimum Distance Between Three Equal Elements II](./leetcode/Medium/4119-minimum-distance-between-three-equal-elements-ii) | Medium |
+| 4139 | [Minimum Absolute Distance Between Mirror Pairs](./leetcode/Medium/4139-minimum-absolute-distance-between-mirror-pairs) | Medium |
 
 ---
 
@@ -160,6 +162,7 @@
 | 1728 | [Fancy Sequence](./leetcode/Hard/1728-fancy-sequence) | Hard |
 | 3215 | [Matrix Similarity After Cyclic Shifts](./leetcode/Easy/3215-matrix-similarity-after-cyclic-shifts) | Easy |
 | 3496 | [Minimum Number of Seconds to Make Mountain Height Zero](./leetcode/Medium/3496-minimum-number-of-seconds-to-make-mountain-height-zero) | Medium |
+| 4139 | [Minimum Absolute Distance Between Mirror Pairs](./leetcode/Medium/4139-minimum-absolute-distance-between-mirror-pairs) | Medium |
 
 ---
 
