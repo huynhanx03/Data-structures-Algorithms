@@ -163,6 +163,7 @@
 | 3215 | [Matrix Similarity After Cyclic Shifts](./leetcode/Easy/3215-matrix-similarity-after-cyclic-shifts) | Easy |
 | 3496 | [Minimum Number of Seconds to Make Mountain Height Zero](./leetcode/Medium/3496-minimum-number-of-seconds-to-make-mountain-height-zero) | Medium |
 | 4139 | [Minimum Absolute Distance Between Mirror Pairs](./leetcode/Medium/4139-minimum-absolute-distance-between-mirror-pairs) | Medium |
+| 4168 | [Mirror Distance of an Integer](./leetcode/Easy/4168-mirror-distance-of-an-integer) | Easy |
 
 ---
 
