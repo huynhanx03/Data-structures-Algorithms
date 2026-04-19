@@ -9,6 +9,7 @@
 | 1716 | [Maximum Non Negative Product in a Matrix](./leetcode/Medium/1716-maximum-non-negative-product-in-a-matrix) | Medium |
 | 1845 | [Largest Submatrix With Rearrangements](./leetcode/Medium/1845-largest-submatrix-with-rearrangements) | Medium |
 | 1975 | [Minimum Distance to the Target Element](./leetcode/Easy/1975-minimum-distance-to-the-target-element) | Easy |
+| 1984 | [Maximum Distance Between a Pair of Values](./leetcode/Medium/1984-maximum-distance-between-a-pair-of-values) | Medium |
 | 2015 | [Determine Whether Matrix Can Be Obtained By Rotation](./leetcode/Easy/2015-determine-whether-matrix-can-be-obtained-by-rotation) | Easy |
 | 2107 | [Find Unique Binary String](./leetcode/Medium/2107-find-unique-binary-string) | Medium |
 | 2554 | [Minimum Total Distance Traveled](./leetcode/Hard/2554-minimum-total-distance-traveled) | Hard |
@@ -46,6 +47,7 @@
 ## Binary Search
 | # | Title | Difficulty |
 | :--- | :--- | :---: |
+| 1984 | [Maximum Distance Between a Pair of Values](./leetcode/Medium/1984-maximum-distance-between-a-pair-of-values) | Medium |
 | 3496 | [Minimum Number of Seconds to Make Mountain Height Zero](./leetcode/Medium/3496-minimum-number-of-seconds-to-make-mountain-height-zero) | Medium |
 | 3750 | [Closest Equal Element Queries](./leetcode/Medium/3750-closest-equal-element-queries) | Medium |
 | 3902 | [Maximize Spanning Tree Stability with Upgrades](./leetcode/Hard/3902-maximize-spanning-tree-stability-with-upgrades) | Hard |
@@ -68,10 +70,19 @@
 
 ---
 
+## Counting
+| # | Title | Difficulty |
+| :--- | :--- | :---: |
+| 387 | [First Unique Character in a String](./leetcode/Easy/0387-first-unique-character-in-a-string) | Easy |
+
+---
+
 ## Depth-First Search
 | # | Title | Difficulty |
 | :--- | :--- | :---: |
 | 210 | [Course Schedule II](./leetcode/Medium/0210-course-schedule-ii) | Medium |
+| 386 | [Lexicographical Numbers](./leetcode/Medium/0386-lexicographical-numbers) | Medium |
+| 388 | [Longest Absolute File Path](./leetcode/Medium/0388-longest-absolute-file-path) | Medium |
 
 ---
 
@@ -137,6 +148,7 @@
 ## Hash Table
 | # | Title | Difficulty |
 | :--- | :--- | :---: |
+| 387 | [First Unique Character in a String](./leetcode/Easy/0387-first-unique-character-in-a-string) | Easy |
 | 906 | [Walking Robot Simulation](./leetcode/Medium/0906-walking-robot-simulation) | Medium |
 | 2107 | [Find Unique Binary String](./leetcode/Medium/2107-find-unique-binary-string) | Medium |
 | 2978 | [Check if Strings Can be Made Equal With Operations II](./leetcode/Medium/2978-check-if-strings-can-be-made-equal-with-operations-ii) | Medium |
@@ -207,6 +219,13 @@
 
 ---
 
+## Queue
+| # | Title | Difficulty |
+| :--- | :--- | :---: |
+| 387 | [First Unique Character in a String](./leetcode/Easy/0387-first-unique-character-in-a-string) | Easy |
+
+---
+
 ## Recursion
 | # | Title | Difficulty |
 | :--- | :--- | :---: |
@@ -258,6 +277,7 @@
 ## Stack
 | # | Title | Difficulty |
 | :--- | :--- | :---: |
+| 388 | [Longest Absolute File Path](./leetcode/Medium/0388-longest-absolute-file-path) | Medium |
 | 2846 | [Robot Collisions](./leetcode/Hard/2846-robot-collisions) | Hard |
 
 ---
@@ -265,6 +285,8 @@
 ## String
 | # | Title | Difficulty |
 | :--- | :--- | :---: |
+| 387 | [First Unique Character in a String](./leetcode/Easy/0387-first-unique-character-in-a-string) | Easy |
+| 388 | [Longest Absolute File Path](./leetcode/Medium/0388-longest-absolute-file-path) | Medium |
 | 657 | [Robot Return to Origin](./leetcode/Easy/0657-robot-return-to-origin) | Easy |
 | 1302 | [Delete Characters to Make Fancy String](./leetcode/Easy/1302-delete-characters-to-make-fancy-string) | Easy |
 | 1443 | [Minimum Distance to Type a Word Using Two Fingers](./leetcode/Hard/1443-minimum-distance-to-type-a-word-using-two-fingers) | Hard |
@@ -297,10 +319,28 @@
 
 ---
 
+## Trie
+| # | Title | Difficulty |
+| :--- | :--- | :---: |
+| 386 | [Lexicographical Numbers](./leetcode/Medium/0386-lexicographical-numbers) | Medium |
+
+---
+
 ## Two Pointers
 | # | Title | Difficulty |
 | :--- | :--- | :---: |
+| 1984 | [Maximum Distance Between a Pair of Values](./leetcode/Medium/1984-maximum-distance-between-a-pair-of-values) | Medium |
 | 3973 | [Flip Square Submatrix Vertically](./leetcode/Easy/3973-flip-square-submatrix-vertically) | Easy |
+
+---
+
+## Uncategorized
+| # | Title | Difficulty |
+| :--- | :--- | :---: |
+| 4124 | [Count Good Integers on a Grid Path](./leetcode/Hard/4124-count-good-integers-on-a-grid-path) | Hard |
+| 4283 | [Multi Source Flood Fill](./leetcode/Medium/4283-multi-source-flood-fill) | Medium |
+| 4284 | [Smallest Stable Index I](./leetcode/Easy/4284-smallest-stable-index-i) | Easy |
+| 4285 | [Smallest Stable Index II](./leetcode/Medium/4285-smallest-stable-index-ii) | Medium |
 
 ---
 
