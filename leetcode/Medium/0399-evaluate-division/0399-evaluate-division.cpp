@@ -2,65 +2,62 @@
  Problem: 399. Evaluate Division
  Language: cpp
  Runtime: 0 ms (100.00%)
- Memory: 12 MB (60.01%)
+ Memory: 11.9 MB (58.54%)
  Tags: Array, String, Depth-First Search, Breadth-First Search, Union-Find, Graph Theory, Shortest Path
 */
 class Solution {
 public:
-    vector<double> calcEquation(vector<vector<string>>& equations,
-                                vector<double>& values,
-                                vector<vector<string>>& queries) {
-        unordered_map<string, unordered_map<string, double>> graph =
-            buildGraph(equations, values);
-
-        vector<double> result(queries.size());
-
-        for (int i = 0; i < queries.size(); ++i) {
-            result[i] = getPathWeight(queries[i][0], queries[i][1],
-                                      unordered_set<string>(), graph);
+    bool dfs(string& u, string& t, unordered_map<string, vector<pair<string, double>>>& g,
+             unordered_set<string>& vis, double cur, double& ans) {
+        if (u == t) {
+            ans = cur;
+            return true;
         }
 
-        return result;
-    }
+        vis.insert(u);
 
-private:
-    double
-    getPathWeight(const string& start, const string& end,
-                  unordered_set<string> visited,
-                  unordered_map<string, unordered_map<string, double>>& graph) {
-
-        if (graph.find(start) == graph.end())
-            return -1.0;
-
-        if (graph[start].find(end) != graph[start].end())
-            return graph[start][end];
-
-        visited.insert(start);
-
-        for (const auto& neighbor : graph[start]) {
-            if (visited.find(neighbor.first) == visited.end()) {
-                double productWeight =
-                    getPathWeight(neighbor.first, end, visited, graph);
-                
-                if (productWeight != -1.0)
-                    return neighbor.second * productWeight;
-            }
+        for (auto& [v, w] : g[u]) {
+            if (vis.count(v)) continue;
+            if (dfs(v, t, g, vis, cur * w, ans)) return true;
         }
 
-        return -1.0;
+        return false;
     }
 
-    unordered_map<string, unordered_map<string, double>>
-    buildGraph(vector<vector<string>>& equations, vector<double>& values) {
-        unordered_map<string, unordered_map<string, double>> graph;
-        
+    vector<double> calcEquation(vector<vector<string>>& equations, vector<double>& values, vector<vector<string>>& queries) {
+        unordered_map<string, vector<pair<string, double>>> g;
+
         for (int i = 0; i < equations.size(); ++i) {
-            const string& u = equations[i][0];
-            const string& v = equations[i][1];
-            graph[u][v] = values[i];
-            graph[v][u] = 1.0 / values[i];
+            string& a = equations[i][0];
+            string& b = equations[i][1];
+            double v = values[i];
+            g[a].push_back({b, v});
+            g[b].push_back({a, 1.0 / v});
         }
 
-        return graph;
+        vector<double> res;
+
+        for (auto& q : queries) {
+            string& a = q[0];
+            string& b = q[1];
+
+            if (!g.count(a) || !g.count(b)) {
+                res.push_back(-1.0);
+                continue;
+            }
+
+            if (a == b) {
+                res.push_back(1.0);
+                continue;
+            }
+
+            unordered_set<string> vis;
+            double ans = -1.0;
+
+            if (dfs(a, b, g, vis, 1.0, ans)) res.push_back(ans);
+            else res.push_back(-1.0);
+        }
+
+        return res;
     }
 };
