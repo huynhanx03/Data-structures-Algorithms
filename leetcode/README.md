@@ -8,6 +8,8 @@
 | 396 | [Rotate Function](./leetcode/Medium/0396-rotate-function) | Medium |
 | 399 | [Evaluate Division](./leetcode/Medium/0399-evaluate-division) | Medium |
 | 403 | [Frog Jump](./leetcode/Hard/0403-frog-jump) | Hard |
+| 406 | [Queue Reconstruction by Height](./leetcode/Medium/0406-queue-reconstruction-by-height) | Medium |
+| 407 | [Trapping Rain Water II](./leetcode/Hard/0407-trapping-rain-water-ii) | Hard |
 | 906 | [Walking Robot Simulation](./leetcode/Medium/0906-walking-robot-simulation) | Medium |
 | 1704 | [Special Positions in a Binary Matrix](./leetcode/Easy/1704-special-positions-in-a-binary-matrix) | Easy |
 | 1716 | [Maximum Non Negative Product in a Matrix](./leetcode/Medium/1716-maximum-non-negative-product-in-a-matrix) | Medium |
@@ -18,6 +20,7 @@
 | 2015 | [Determine Whether Matrix Can Be Obtained By Rotation](./leetcode/Easy/2015-determine-whether-matrix-can-be-obtained-by-rotation) | Easy |
 | 2107 | [Find Unique Binary String](./leetcode/Medium/2107-find-unique-binary-string) | Medium |
 | 2199 | [Two Furthest Houses With Different Colors](./leetcode/Easy/2199-two-furthest-houses-with-different-colors) | Easy |
+| 2550 | [Words Within Two Edits of Dictionary](./leetcode/Medium/2550-words-within-two-edits-of-dictionary) | Medium |
 | 2554 | [Minimum Total Distance Traveled](./leetcode/Hard/2554-minimum-total-distance-traveled) | Hard |
 | 2598 | [Shortest Distance to Target String in a Circular Array](./leetcode/Easy/2598-shortest-distance-to-target-string-in-a-circular-array) | Easy |
 | 2708 | [Find the String with LCP](./leetcode/Hard/2708-find-the-string-with-lcp) | Hard |
@@ -55,6 +58,13 @@
 
 ---
 
+## Binary Indexed Tree
+| # | Title | Difficulty |
+| :--- | :--- | :---: |
+| 406 | [Queue Reconstruction by Height](./leetcode/Medium/0406-queue-reconstruction-by-height) | Medium |
+
+---
+
 ## Binary Search
 | # | Title | Difficulty |
 | :--- | :--- | :---: |
@@ -67,6 +77,13 @@
 
 ---
 
+## Binary Tree
+| # | Title | Difficulty |
+| :--- | :--- | :---: |
+| 404 | [Sum of Left Leaves](./leetcode/Easy/0404-sum-of-left-leaves) | Easy |
+
+---
+
 ## Bit Manipulation
 | # | Title | Difficulty |
 | :--- | :--- | :---: |
@@ -74,6 +91,7 @@
 | 393 | [UTF-8 Validation](./leetcode/Medium/0393-utf-8-validation) | Medium |
 | 397 | [Integer Replacement](./leetcode/Medium/0397-integer-replacement) | Medium |
 | 401 | [Binary Watch](./leetcode/Easy/0401-binary-watch) | Easy |
+| 405 | [Convert a Number to Hexadecimal](./leetcode/Easy/0405-convert-a-number-to-hexadecimal) | Easy |
 | 1054 | [Complement of Base 10 Integer](./leetcode/Easy/1054-complement-of-base-10-integer) | Easy |
 | 4097 | [Minimum Removals to Achieve Target XOR](./leetcode/Medium/4097-minimum-removals-to-achieve-target-xor) | Medium |
 | 4222 | [Count Good Subarrays](./leetcode/Hard/4222-count-good-subarrays) | Hard |
@@ -85,6 +103,8 @@
 | :--- | :--- | :---: |
 | 210 | [Course Schedule II](./leetcode/Medium/0210-course-schedule-ii) | Medium |
 | 399 | [Evaluate Division](./leetcode/Medium/0399-evaluate-division) | Medium |
+| 404 | [Sum of Left Leaves](./leetcode/Easy/0404-sum-of-left-leaves) | Easy |
+| 407 | [Trapping Rain Water II](./leetcode/Hard/0407-trapping-rain-water-ii) | Hard |
 
 ---
 
@@ -102,6 +122,7 @@
 | 386 | [Lexicographical Numbers](./leetcode/Medium/0386-lexicographical-numbers) | Medium |
 | 388 | [Longest Absolute File Path](./leetcode/Medium/0388-longest-absolute-file-path) | Medium |
 | 399 | [Evaluate Division](./leetcode/Medium/0399-evaluate-division) | Medium |
+| 404 | [Sum of Left Leaves](./leetcode/Easy/0404-sum-of-left-leaves) | Easy |
 | 1840 | [Minimize Hamming Distance After Swap Operations](./leetcode/Medium/1840-minimize-hamming-distance-after-swap-operations) | Medium |
 
 ---
@@ -195,6 +216,7 @@
 ## Heap (Priority Queue)
 | # | Title | Difficulty |
 | :--- | :--- | :---: |
+| 407 | [Trapping Rain Water II](./leetcode/Hard/0407-trapping-rain-water-ii) | Hard |
 | 3496 | [Minimum Number of Seconds to Make Mountain Height Zero](./leetcode/Medium/3496-minimum-number-of-seconds-to-make-mountain-height-zero) | Medium |
 
 ---
@@ -206,6 +228,7 @@
 | 396 | [Rotate Function](./leetcode/Medium/0396-rotate-function) | Medium |
 | 398 | [Random Pick Index](./leetcode/Medium/0398-random-pick-index) | Medium |
 | 400 | [Nth Digit](./leetcode/Medium/0400-nth-digit) | Medium |
+| 405 | [Convert a Number to Hexadecimal](./leetcode/Easy/0405-convert-a-number-to-hexadecimal) | Easy |
 | 1728 | [Fancy Sequence](./leetcode/Hard/1728-fancy-sequence) | Hard |
 | 3215 | [Matrix Similarity After Cyclic Shifts](./leetcode/Easy/3215-matrix-similarity-after-cyclic-shifts) | Easy |
 | 3496 | [Minimum Number of Seconds to Make Mountain Height Zero](./leetcode/Medium/3496-minimum-number-of-seconds-to-make-mountain-height-zero) | Medium |
@@ -219,6 +242,7 @@
 ## Matrix
 | # | Title | Difficulty |
 | :--- | :--- | :---: |
+| 407 | [Trapping Rain Water II](./leetcode/Hard/0407-trapping-rain-water-ii) | Hard |
 | 1704 | [Special Positions in a Binary Matrix](./leetcode/Easy/1704-special-positions-in-a-binary-matrix) | Easy |
 | 1716 | [Maximum Non Negative Product in a Matrix](./leetcode/Medium/1716-maximum-non-negative-product-in-a-matrix) | Medium |
 | 1845 | [Largest Submatrix With Rearrangements](./leetcode/Medium/1845-largest-submatrix-with-rearrangements) | Medium |
@@ -304,6 +328,7 @@
 ## Segment Tree
 | # | Title | Difficulty |
 | :--- | :--- | :---: |
+| 406 | [Queue Reconstruction by Height](./leetcode/Medium/0406-queue-reconstruction-by-height) | Medium |
 | 1728 | [Fancy Sequence](./leetcode/Hard/1728-fancy-sequence) | Hard |
 
 ---
@@ -340,6 +365,7 @@
 ## Sorting
 | # | Title | Difficulty |
 | :--- | :--- | :---: |
+| 406 | [Queue Reconstruction by Height](./leetcode/Medium/0406-queue-reconstruction-by-height) | Medium |
 | 1845 | [Largest Submatrix With Rearrangements](./leetcode/Medium/1845-largest-submatrix-with-rearrangements) | Medium |
 | 2554 | [Minimum Total Distance Traveled](./leetcode/Hard/2554-minimum-total-distance-traveled) | Hard |
 | 2846 | [Robot Collisions](./leetcode/Hard/2846-robot-collisions) | Hard |
@@ -370,6 +396,7 @@
 | 395 | [Longest Substring with At Least K Repeating Characters](./leetcode/Medium/0395-longest-substring-with-at-least-k-repeating-characters) | Medium |
 | 399 | [Evaluate Division](./leetcode/Medium/0399-evaluate-division) | Medium |
 | 402 | [Remove K Digits](./leetcode/Medium/0402-remove-k-digits) | Medium |
+| 405 | [Convert a Number to Hexadecimal](./leetcode/Easy/0405-convert-a-number-to-hexadecimal) | Easy |
 | 657 | [Robot Return to Origin](./leetcode/Easy/0657-robot-return-to-origin) | Easy |
 | 1302 | [Delete Characters to Make Fancy String](./leetcode/Easy/1302-delete-characters-to-make-fancy-string) | Easy |
 | 1443 | [Minimum Distance to Type a Word Using Two Fingers](./leetcode/Hard/1443-minimum-distance-to-type-a-word-using-two-fingers) | Hard |
@@ -380,6 +407,7 @@
 | 2017 | [Minimum Number of Flips to Make the Binary String Alternating](./leetcode/Medium/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) | Medium |
 | 2107 | [Find Unique Binary String](./leetcode/Medium/2107-find-unique-binary-string) | Medium |
 | 2197 | [Decode the Slanted Ciphertext](./leetcode/Medium/2197-decode-the-slanted-ciphertext) | Medium |
+| 2550 | [Words Within Two Edits of Dictionary](./leetcode/Medium/2550-words-within-two-edits-of-dictionary) | Medium |
 | 2598 | [Shortest Distance to Target String in a Circular Array](./leetcode/Easy/2598-shortest-distance-to-target-string-in-a-circular-array) | Easy |
 | 2708 | [Find the String with LCP](./leetcode/Hard/2708-find-the-string-with-lcp) | Hard |
 | 2978 | [Check if Strings Can be Made Equal With Operations II](./leetcode/Medium/2978-check-if-strings-can-be-made-equal-with-operations-ii) | Medium |
@@ -402,10 +430,18 @@
 
 ---
 
+## Tree
+| # | Title | Difficulty |
+| :--- | :--- | :---: |
+| 404 | [Sum of Left Leaves](./leetcode/Easy/0404-sum-of-left-leaves) | Easy |
+
+---
+
 ## Trie
 | # | Title | Difficulty |
 | :--- | :--- | :---: |
 | 386 | [Lexicographical Numbers](./leetcode/Medium/0386-lexicographical-numbers) | Medium |
+| 2550 | [Words Within Two Edits of Dictionary](./leetcode/Medium/2550-words-within-two-edits-of-dictionary) | Medium |
 
 ---
 
