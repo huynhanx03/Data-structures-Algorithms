@@ -3,6 +3,7 @@
 ## Array
 | # | Title | Difficulty |
 | :--- | :--- | :---: |
+| 1 | [Two Sum](./leetcode/Easy/0001-two-sum) | Easy |
 | 119 | [Pascal's Triangle II](./leetcode/Easy/0119-pascals-triangle-ii) | Easy |
 | 393 | [UTF-8 Validation](./leetcode/Medium/0393-utf-8-validation) | Medium |
 | 396 | [Rotate Function](./leetcode/Medium/0396-rotate-function) | Medium |
@@ -24,6 +25,7 @@
 | 2554 | [Minimum Total Distance Traveled](./leetcode/Hard/2554-minimum-total-distance-traveled) | Hard |
 | 2598 | [Shortest Distance to Target String in a Circular Array](./leetcode/Easy/2598-shortest-distance-to-target-string-in-a-circular-array) | Easy |
 | 2708 | [Find the String with LCP](./leetcode/Hard/2708-find-the-string-with-lcp) | Hard |
+| 2721 | [Sum of Distances](./leetcode/Medium/2721-sum-of-distances) | Medium |
 | 2846 | [Robot Collisions](./leetcode/Hard/2846-robot-collisions) | Hard |
 | 3031 | [Construct Product Matrix](./leetcode/Medium/3031-construct-product-matrix) | Medium |
 | 3215 | [Matrix Similarity After Cyclic Shifts](./leetcode/Easy/3215-matrix-similarity-after-cyclic-shifts) | Easy |
@@ -199,11 +201,13 @@
 ## Hash Table
 | # | Title | Difficulty |
 | :--- | :--- | :---: |
+| 1 | [Two Sum](./leetcode/Easy/0001-two-sum) | Easy |
 | 387 | [First Unique Character in a String](./leetcode/Easy/0387-first-unique-character-in-a-string) | Easy |
 | 395 | [Longest Substring with At Least K Repeating Characters](./leetcode/Medium/0395-longest-substring-with-at-least-k-repeating-characters) | Medium |
 | 398 | [Random Pick Index](./leetcode/Medium/0398-random-pick-index) | Medium |
 | 906 | [Walking Robot Simulation](./leetcode/Medium/0906-walking-robot-simulation) | Medium |
 | 2107 | [Find Unique Binary String](./leetcode/Medium/2107-find-unique-binary-string) | Medium |
+| 2721 | [Sum of Distances](./leetcode/Medium/2721-sum-of-distances) | Medium |
 | 2978 | [Check if Strings Can be Made Equal With Operations II](./leetcode/Medium/2978-check-if-strings-can-be-made-equal-with-operations-ii) | Medium |
 | 3750 | [Closest Equal Element Queries](./leetcode/Medium/3750-closest-equal-element-queries) | Medium |
 | 3850 | [Equal Sum Grid Partition II](./leetcode/Hard/3850-equal-sum-grid-partition-ii) | Hard |
@@ -285,6 +289,7 @@
 ## Prefix Sum
 | # | Title | Difficulty |
 | :--- | :--- | :---: |
+| 2721 | [Sum of Distances](./leetcode/Medium/2721-sum-of-distances) | Medium |
 | 3031 | [Construct Product Matrix](./leetcode/Medium/3031-construct-product-matrix) | Medium |
 | 3338 | [Count Submatrices with Top-Left Element and Sum Less Than k](./leetcode/Medium/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) | Medium |
 | 3406 | [Find All Possible Stable Binary Arrays I](./leetcode/Medium/3406-find-all-possible-stable-binary-arrays-i) | Medium |
