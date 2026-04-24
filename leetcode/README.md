@@ -114,6 +114,7 @@
 | # | Title | Difficulty |
 | :--- | :--- | :---: |
 | 387 | [First Unique Character in a String](./leetcode/Easy/0387-first-unique-character-in-a-string) | Easy |
+| 3019 | [Furthest Point From Origin](./leetcode/Easy/3019-furthest-point-from-origin) | Easy |
 
 ---
 
@@ -417,6 +418,7 @@
 | 2708 | [Find the String with LCP](./leetcode/Hard/2708-find-the-string-with-lcp) | Hard |
 | 2978 | [Check if Strings Can be Made Equal With Operations II](./leetcode/Medium/2978-check-if-strings-can-be-made-equal-with-operations-ii) | Medium |
 | 2999 | [Check if Strings Can be Made Equal With Operations I](./leetcode/Easy/2999-check-if-strings-can-be-made-equal-with-operations-i) | Easy |
+| 3019 | [Furthest Point From Origin](./leetcode/Easy/3019-furthest-point-from-origin) | Easy |
 | 3770 | [Lexicographically Smallest Generated String](./leetcode/Hard/3770-lexicographically-smallest-generated-string) | Hard |
 
 ---
