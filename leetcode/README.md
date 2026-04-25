@@ -34,6 +34,7 @@
 | 3496 | [Minimum Number of Seconds to Make Mountain Height Zero](./leetcode/Medium/3496-minimum-number-of-seconds-to-make-mountain-height-zero) | Medium |
 | 3677 | [Maximum Amount of Money Robot Can Earn](./leetcode/Medium/3677-maximum-amount-of-money-robot-can-earn) | Medium |
 | 3750 | [Closest Equal Element Queries](./leetcode/Medium/3750-closest-equal-element-queries) | Medium |
+| 3781 | [Maximize the Distance Between Points on a Square](./leetcode/Hard/3781-maximize-the-distance-between-points-on-a-square) | Hard |
 | 3849 | [Equal Sum Grid Partition I](./leetcode/Medium/3849-equal-sum-grid-partition-i) | Medium |
 | 3850 | [Equal Sum Grid Partition II](./leetcode/Hard/3850-equal-sum-grid-partition-ii) | Hard |
 | 3884 | [Minimum Absolute Difference in Sliding Submatrix](./leetcode/Medium/3884-minimum-absolute-difference-in-sliding-submatrix) | Medium |
@@ -74,6 +75,7 @@
 | 1984 | [Maximum Distance Between a Pair of Values](./leetcode/Medium/1984-maximum-distance-between-a-pair-of-values) | Medium |
 | 3496 | [Minimum Number of Seconds to Make Mountain Height Zero](./leetcode/Medium/3496-minimum-number-of-seconds-to-make-mountain-height-zero) | Medium |
 | 3750 | [Closest Equal Element Queries](./leetcode/Medium/3750-closest-equal-element-queries) | Medium |
+| 3781 | [Maximize the Distance Between Points on a Square](./leetcode/Hard/3781-maximize-the-distance-between-points-on-a-square) | Hard |
 | 3902 | [Maximize Spanning Tree Stability with Upgrades](./leetcode/Hard/3902-maximize-spanning-tree-stability-with-upgrades) | Hard |
 | 3982 | [Maximum Walls Destroyed by Robots](./leetcode/Hard/3982-maximum-walls-destroyed-by-robots) | Hard |
 
@@ -176,6 +178,13 @@
 
 ---
 
+## Geometry
+| # | Title | Difficulty |
+| :--- | :--- | :---: |
+| 3781 | [Maximize the Distance Between Points on a Square](./leetcode/Hard/3781-maximize-the-distance-between-points-on-a-square) | Hard |
+
+---
+
 ## Graph Theory
 | # | Title | Difficulty |
 | :--- | :--- | :---: |
@@ -237,6 +246,7 @@
 | 1728 | [Fancy Sequence](./leetcode/Hard/1728-fancy-sequence) | Hard |
 | 3215 | [Matrix Similarity After Cyclic Shifts](./leetcode/Easy/3215-matrix-similarity-after-cyclic-shifts) | Easy |
 | 3496 | [Minimum Number of Seconds to Make Mountain Height Zero](./leetcode/Medium/3496-minimum-number-of-seconds-to-make-mountain-height-zero) | Medium |
+| 3781 | [Maximize the Distance Between Points on a Square](./leetcode/Hard/3781-maximize-the-distance-between-points-on-a-square) | Hard |
 | 4139 | [Minimum Absolute Distance Between Mirror Pairs](./leetcode/Medium/4139-minimum-absolute-distance-between-mirror-pairs) | Medium |
 | 4168 | [Mirror Distance of an Integer](./leetcode/Easy/4168-mirror-distance-of-an-integer) | Easy |
 | 4256 | [Construct Uniform Parity Array I](./leetcode/Easy/4256-construct-uniform-parity-array-i) | Easy |
@@ -376,6 +386,7 @@
 | 2554 | [Minimum Total Distance Traveled](./leetcode/Hard/2554-minimum-total-distance-traveled) | Hard |
 | 2846 | [Robot Collisions](./leetcode/Hard/2846-robot-collisions) | Hard |
 | 2978 | [Check if Strings Can be Made Equal With Operations II](./leetcode/Medium/2978-check-if-strings-can-be-made-equal-with-operations-ii) | Medium |
+| 3781 | [Maximize the Distance Between Points on a Square](./leetcode/Hard/3781-maximize-the-distance-between-points-on-a-square) | Hard |
 | 3884 | [Minimum Absolute Difference in Sliding Submatrix](./leetcode/Medium/3884-minimum-absolute-difference-in-sliding-submatrix) | Medium |
 | 3982 | [Maximum Walls Destroyed by Robots](./leetcode/Hard/3982-maximum-walls-destroyed-by-robots) | Hard |
 
