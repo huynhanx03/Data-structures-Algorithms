@@ -12,6 +12,7 @@
 | 406 | [Queue Reconstruction by Height](./leetcode/Medium/0406-queue-reconstruction-by-height) | Medium |
 | 407 | [Trapping Rain Water II](./leetcode/Hard/0407-trapping-rain-water-ii) | Hard |
 | 906 | [Walking Robot Simulation](./leetcode/Medium/0906-walking-robot-simulation) | Medium |
+| 1663 | [Detect Cycles in 2D Grid](./leetcode/Medium/1663-detect-cycles-in-2d-grid) | Medium |
 | 1704 | [Special Positions in a Binary Matrix](./leetcode/Easy/1704-special-positions-in-a-binary-matrix) | Easy |
 | 1716 | [Maximum Non Negative Product in a Matrix](./leetcode/Medium/1716-maximum-non-negative-product-in-a-matrix) | Medium |
 | 1840 | [Minimize Hamming Distance After Swap Operations](./leetcode/Medium/1840-minimize-hamming-distance-after-swap-operations) | Medium |
@@ -109,6 +110,7 @@
 | 399 | [Evaluate Division](./leetcode/Medium/0399-evaluate-division) | Medium |
 | 404 | [Sum of Left Leaves](./leetcode/Easy/0404-sum-of-left-leaves) | Easy |
 | 407 | [Trapping Rain Water II](./leetcode/Hard/0407-trapping-rain-water-ii) | Hard |
+| 1663 | [Detect Cycles in 2D Grid](./leetcode/Medium/1663-detect-cycles-in-2d-grid) | Medium |
 
 ---
 
@@ -128,6 +130,7 @@
 | 388 | [Longest Absolute File Path](./leetcode/Medium/0388-longest-absolute-file-path) | Medium |
 | 399 | [Evaluate Division](./leetcode/Medium/0399-evaluate-division) | Medium |
 | 404 | [Sum of Left Leaves](./leetcode/Easy/0404-sum-of-left-leaves) | Easy |
+| 1663 | [Detect Cycles in 2D Grid](./leetcode/Medium/1663-detect-cycles-in-2d-grid) | Medium |
 | 1840 | [Minimize Hamming Distance After Swap Operations](./leetcode/Medium/1840-minimize-hamming-distance-after-swap-operations) | Medium |
 
 ---
@@ -258,6 +261,7 @@
 | # | Title | Difficulty |
 | :--- | :--- | :---: |
 | 407 | [Trapping Rain Water II](./leetcode/Hard/0407-trapping-rain-water-ii) | Hard |
+| 1663 | [Detect Cycles in 2D Grid](./leetcode/Medium/1663-detect-cycles-in-2d-grid) | Medium |
 | 1704 | [Special Positions in a Binary Matrix](./leetcode/Easy/1704-special-positions-in-a-binary-matrix) | Easy |
 | 1716 | [Maximum Non Negative Product in a Matrix](./leetcode/Medium/1716-maximum-non-negative-product-in-a-matrix) | Medium |
 | 1845 | [Largest Submatrix With Rearrangements](./leetcode/Medium/1845-largest-submatrix-with-rearrangements) | Medium |
@@ -476,9 +480,13 @@
 | # | Title | Difficulty |
 | :--- | :--- | :---: |
 | 4124 | [Count Good Integers on a Grid Path](./leetcode/Hard/4124-count-good-integers-on-a-grid-path) | Hard |
+| 4260 | [Maximum Sum of Alternating Subsequence With Distance at Least K](./leetcode/Hard/4260-maximum-sum-of-alternating-subsequence-with-distance-at-least-k) | Hard |
+| 4270 | [Minimum Operations to Make Array Non Decreasing](./leetcode/Medium/4270-minimum-operations-to-make-array-non-decreasing) | Medium |
+| 4282 | [Sort Vowels by Frequency](./leetcode/Medium/4282-sort-vowels-by-frequency) | Medium |
 | 4283 | [Multi Source Flood Fill](./leetcode/Medium/4283-multi-source-flood-fill) | Medium |
 | 4284 | [Smallest Stable Index I](./leetcode/Easy/4284-smallest-stable-index-i) | Easy |
 | 4285 | [Smallest Stable Index II](./leetcode/Medium/4285-smallest-stable-index-ii) | Medium |
+| 4290 | [Valid Elements in an Array](./leetcode/Easy/4290-valid-elements-in-an-array) | Easy |
 
 ---
 
@@ -486,6 +494,7 @@
 | # | Title | Difficulty |
 | :--- | :--- | :---: |
 | 399 | [Evaluate Division](./leetcode/Medium/0399-evaluate-division) | Medium |
+| 1663 | [Detect Cycles in 2D Grid](./leetcode/Medium/1663-detect-cycles-in-2d-grid) | Medium |
 | 1840 | [Minimize Hamming Distance After Swap Operations](./leetcode/Medium/1840-minimize-hamming-distance-after-swap-operations) | Medium |
 | 2708 | [Find the String with LCP](./leetcode/Hard/2708-find-the-string-with-lcp) | Hard |
 | 3902 | [Maximize Spanning Tree Stability with Upgrades](./leetcode/Hard/3902-maximize-spanning-tree-stability-with-upgrades) | Hard |
