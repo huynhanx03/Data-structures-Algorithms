@@ -12,6 +12,7 @@
 | 406 | [Queue Reconstruction by Height](./leetcode/Medium/0406-queue-reconstruction-by-height) | Medium |
 | 407 | [Trapping Rain Water II](./leetcode/Hard/0407-trapping-rain-water-ii) | Hard |
 | 906 | [Walking Robot Simulation](./leetcode/Medium/0906-walking-robot-simulation) | Medium |
+| 1507 | [Check if There is a Valid Path in a Grid](./leetcode/Medium/1507-check-if-there-is-a-valid-path-in-a-grid) | Medium |
 | 1663 | [Detect Cycles in 2D Grid](./leetcode/Medium/1663-detect-cycles-in-2d-grid) | Medium |
 | 1704 | [Special Positions in a Binary Matrix](./leetcode/Easy/1704-special-positions-in-a-binary-matrix) | Easy |
 | 1716 | [Maximum Non Negative Product in a Matrix](./leetcode/Medium/1716-maximum-non-negative-product-in-a-matrix) | Medium |
@@ -110,6 +111,7 @@
 | 399 | [Evaluate Division](./leetcode/Medium/0399-evaluate-division) | Medium |
 | 404 | [Sum of Left Leaves](./leetcode/Easy/0404-sum-of-left-leaves) | Easy |
 | 407 | [Trapping Rain Water II](./leetcode/Hard/0407-trapping-rain-water-ii) | Hard |
+| 1507 | [Check if There is a Valid Path in a Grid](./leetcode/Medium/1507-check-if-there-is-a-valid-path-in-a-grid) | Medium |
 | 1663 | [Detect Cycles in 2D Grid](./leetcode/Medium/1663-detect-cycles-in-2d-grid) | Medium |
 
 ---
@@ -130,6 +132,7 @@
 | 388 | [Longest Absolute File Path](./leetcode/Medium/0388-longest-absolute-file-path) | Medium |
 | 399 | [Evaluate Division](./leetcode/Medium/0399-evaluate-division) | Medium |
 | 404 | [Sum of Left Leaves](./leetcode/Easy/0404-sum-of-left-leaves) | Easy |
+| 1507 | [Check if There is a Valid Path in a Grid](./leetcode/Medium/1507-check-if-there-is-a-valid-path-in-a-grid) | Medium |
 | 1663 | [Detect Cycles in 2D Grid](./leetcode/Medium/1663-detect-cycles-in-2d-grid) | Medium |
 | 1840 | [Minimize Hamming Distance After Swap Operations](./leetcode/Medium/1840-minimize-hamming-distance-after-swap-operations) | Medium |
 
@@ -261,6 +264,7 @@
 | # | Title | Difficulty |
 | :--- | :--- | :---: |
 | 407 | [Trapping Rain Water II](./leetcode/Hard/0407-trapping-rain-water-ii) | Hard |
+| 1507 | [Check if There is a Valid Path in a Grid](./leetcode/Medium/1507-check-if-there-is-a-valid-path-in-a-grid) | Medium |
 | 1663 | [Detect Cycles in 2D Grid](./leetcode/Medium/1663-detect-cycles-in-2d-grid) | Medium |
 | 1704 | [Special Positions in a Binary Matrix](./leetcode/Easy/1704-special-positions-in-a-binary-matrix) | Easy |
 | 1716 | [Maximum Non Negative Product in a Matrix](./leetcode/Medium/1716-maximum-non-negative-product-in-a-matrix) | Medium |
@@ -494,6 +498,7 @@
 | # | Title | Difficulty |
 | :--- | :--- | :---: |
 | 399 | [Evaluate Division](./leetcode/Medium/0399-evaluate-division) | Medium |
+| 1507 | [Check if There is a Valid Path in a Grid](./leetcode/Medium/1507-check-if-there-is-a-valid-path-in-a-grid) | Medium |
 | 1663 | [Detect Cycles in 2D Grid](./leetcode/Medium/1663-detect-cycles-in-2d-grid) | Medium |
 | 1840 | [Minimize Hamming Distance After Swap Operations](./leetcode/Medium/1840-minimize-hamming-distance-after-swap-operations) | Medium |
 | 2708 | [Find the String with LCP](./leetcode/Hard/2708-find-the-string-with-lcp) | Hard |
