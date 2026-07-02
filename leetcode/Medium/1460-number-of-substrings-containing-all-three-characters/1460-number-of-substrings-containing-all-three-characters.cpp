@@ -1,8 +1,8 @@
 /*
  Problem: 1460. Number of Substrings Containing All Three Characters
  Language: cpp
- Runtime: 3 ms (87.78%)
- Memory: 11.1 MB (56.58%)
+ Runtime: 4 ms (79.23%)
+ Memory: 11.1 MB (52.90%)
  Tags: Hash Table, String, Sliding Window
 */
 class Solution {
