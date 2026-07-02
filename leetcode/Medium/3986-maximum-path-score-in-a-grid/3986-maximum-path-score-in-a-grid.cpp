@@ -1,8 +1,8 @@
 /*
  Problem: 3986. Maximum Path Score in a Grid
  Language: cpp
- Runtime: 1078 ms (21.64%)
- Memory: 499.6 MB (31.49%)
+ Runtime: 1110 ms (18.97%)
+ Memory: 499.5 MB (43.91%)
  Tags: Array, Dynamic Programming, Matrix
 */
 class Solution {
