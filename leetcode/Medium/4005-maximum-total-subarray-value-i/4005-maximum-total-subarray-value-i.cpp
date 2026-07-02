@@ -1,8 +1,8 @@
 /*
  Problem: 4005. Maximum Total Subarray Value I
  Language: cpp
- Runtime: 3 ms (39.82%)
- Memory: 108.4 MB (1.37%)
+ Runtime: 1 ms (42.83%)
+ Memory: 108.5 MB (35.05%)
  Tags: Array, Greedy
 */
 class Solution {
