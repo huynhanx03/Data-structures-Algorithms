@@ -2,7 +2,7 @@
  Problem: 61. Rotate List
  Language: cpp
  Runtime: 0 ms (100.00%)
- Memory: 16.5 MB (32.09%)
+ Memory: 16.5 MB (31.50%)
  Tags: Linked List, Two Pointers
 */
 /**
@@ -20,7 +20,6 @@ public:
     ListNode* rotateRight(ListNode* head, int k) {
         if (!head || !head->next || k == 0) return head;
 
-        // Find the length of the list
         ListNode* tail = head;
         int length = 1;
         while (tail->next) {
@@ -28,10 +27,8 @@ public:
             length++;
         }
 
-        // Connect the tail to the head to make it circular
         tail->next = head;
 
-        // Find the new tail and new head
         k = k % length;
         int stepsToNewHead = length - k;
         ListNode* newTail = head;
@@ -41,7 +38,6 @@ public:
         
         ListNode* newHead = newTail->next;
 
-        // Break the circle
         newTail->next = nullptr;
 
         return newHead;
