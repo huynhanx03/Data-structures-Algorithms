@@ -2,7 +2,7 @@
  Problem: 153. Find Minimum in Rotated Sorted Array
  Language: cpp
  Runtime: 0 ms (100.00%)
- Memory: 14.2 MB (10.98%)
+ Memory: 14.3 MB (10.27%)
  Tags: Array, Binary Search
 */
 class Solution {
