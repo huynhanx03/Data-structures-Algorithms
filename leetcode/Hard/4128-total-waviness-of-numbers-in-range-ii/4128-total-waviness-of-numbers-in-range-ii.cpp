@@ -1,8 +1,8 @@
 /*
  Problem: 4128. Total Waviness of Numbers in Range II
  Language: cpp
- Runtime: 31 ms (69.95%)
- Memory: 9.6 MB (56.16%)
+ Runtime: 27 ms (51.44%)
+ Memory: 9.6 MB (56.90%)
  Tags: Math, Dynamic Programming
 */
 class Solution {
