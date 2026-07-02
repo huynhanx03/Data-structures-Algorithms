@@ -1,8 +1,8 @@
 /*
  Problem: 396. Rotate Function
  Language: cpp
- Runtime: 0 ms (100.00%)
- Memory: 99.6 MB (51.07%)
+ Runtime: 3 ms (54.55%)
+ Memory: 99.6 MB (76.92%)
  Tags: Array, Math, Dynamic Programming
 */
 class Solution {
