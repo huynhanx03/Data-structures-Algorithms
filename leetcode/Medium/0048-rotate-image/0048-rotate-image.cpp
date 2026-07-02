@@ -2,7 +2,7 @@
  Problem: 48. Rotate Image
  Language: cpp
  Runtime: 0 ms (100.00%)
- Memory: 10.2 MB (69.86%)
+ Memory: 10.3 MB (34.78%)
  Tags: Array, Math, Matrix
 */
 class Solution {
