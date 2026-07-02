@@ -1,8 +1,8 @@
 /*
  Problem: 1507. Check if There is a Valid Path in a Grid
  Language: cpp
- Runtime: 20 ms (72.58%)
- Memory: 72.6 MB (18.55%)
+ Runtime: 20 ms (66.80%)
+ Memory: 72.6 MB (25.03%)
  Tags: Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix
 */
 class Solution {
