@@ -1,8 +1,8 @@
 /*
  Problem: 4074. Count Subarrays With Majority Element I
  Language: cpp
- Runtime: 55 ms (31.11%)
- Memory: 39.7 MB (58.42%)
+ Runtime: 45 ms (44.43%)
+ Memory: 39.5 MB (96.41%)
  Tags: Array, Hash Table, Divide and Conquer, Segment Tree, Merge Sort, Counting, Prefix Sum
 */
 class Solution {
