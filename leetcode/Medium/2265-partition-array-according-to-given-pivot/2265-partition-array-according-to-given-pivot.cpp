@@ -1,35 +1,32 @@
 /*
  Problem: 2265. Partition Array According to Given Pivot
  Language: cpp
- Runtime: 2 ms (89.52%)
- Memory: 141 MB (15.65%)
+ Runtime: 8 ms (49.72%)
+ Memory: 127.7 MB (79.12%)
  Tags: Array, Two Pointers, Simulation
 */
 class Solution {
 public:
     vector<int> pivotArray(vector<int>& nums, int pivot) {
-        vector<int> less_than_pivot;
-        vector<int> equal_to_pivot;
-        vector<int> greater_than_pivot;
+        int n = nums.size();
+        int cnt = 0;
+        int p = 0;
+        vector<int> res(n);
 
-        for (int num : nums) {
-            if (num < pivot) {
-                less_than_pivot.push_back(num);
-            } else if (num == pivot) {
-                equal_to_pivot.push_back(num);
-            } else {
-                greater_than_pivot.push_back(num);
-            }
+        for (int i = 0; i < n; ++i) {
+            if (nums[i] < pivot)
+                res[p++] = nums[i];
+            else if (nums[i] == pivot)
+                ++cnt;
         }
 
-        vector<int> result;
-        result.insert(result.end(), less_than_pivot.begin(),
-                      less_than_pivot.end());
-        result.insert(result.end(), equal_to_pivot.begin(),
-                      equal_to_pivot.end());
-        result.insert(result.end(), greater_than_pivot.begin(),
-                      greater_than_pivot.end());
+        while (cnt--)
+            res[p++] = pivot;
 
-        return result;
+        for (int i = 0; i < n; ++i)
+            if (nums[i] > pivot)
+                res[p++] = nums[i];
+        
+        return res;
     }
 };
